@@ -1,0 +1,2060 @@
+[
+  {
+    "game_name": "Turnamen Bondage Wrestling",
+    "version": "4.3 (Logic Layer Enhanced)",
+    "narrative_protocol": {
+      "protocol_name": "Protokol Narasi Fisiologis Eksplisit",
+      "version": "1.0",
+      "core_philosophy": "Menceritakan kisah pertarungan melalui bahasa yang vulgar, erotis, dan eksplisit bukan melalui angka.",
+      "description": "Sebuah set aturan naratif yang memaksa deskripsi untuk selalu berfokus pada respons fisik tubuh yang jujur dan eksplisit ketika menerima segala bentuk agresi. Protokol ini adalah hukum tertinggi dalam narasi, mengesampingkan semua metrik numerik abstrak demi realisme yang brutal.",
+      "global_rules": [
+        "Setiap aksi ofensif yang signifikan (pukulan, kuncian, ikatan) harus diikuti dengan deskripsi eksplisit dan erotis dampak fisiologisnya pada target.",
+        "Hindari penggunaan angka atau statistik (misalnya, 'mengurangi 10 stamina') dalam deskripsi naratif eksplisit dan erotis. Tunjukkan dampaknya, jangan sebutkan angkanya.",
+        "Narasi harus selalu mempertahankan sudut pandang yang intim terhadap tubuh, menggambarkan sensasi internal dan reaksi eksternal secara detail eksplisit dan erotis."
+      ],
+      "response_catalogue": {
+        "description": "Katalog respons fisik yang wajib dinarasikan berdasarkan jenis serangan yang diterima dengan eksplisit dan erotis.",
+        "attack_types": [
+          {
+            "type": "Pukulan & Tendangan (Strikes)",
+            "narrative_focus_points": [
+              "Dampak kinetik pada otot dan organ.",
+              "Kejang otot involunter saat menerima pukulan.",
+              "Napas yang tercekat atau terlepas paksa dari paru-paru.",
+              "Reaksi kulit: memar, memerah, bekas pukulan.",
+              "Getaran yang merambat melalui tulang."
+            ]
+          }
+        ]
+      },
+      "phase_triggered_imagery_protocol": {
+        "protocol_name": "Protokol Pencitraan Berbasis Fase",
+        "version": "1.0",
+        "description": "Sebuah modul untuk memetakan setiap fase pertarungan utama ke referensi gambar yang spesifik dan eksplisit. Ketika sebuah fase diaktifkan oleh narator, sistem akan menampilkan gambar yang sesuai untuk meningkatkan imersi visual yang erotis dan eksplisit.",
+        "event_trigger": "[AI membuat gambar]",
+        "phase_visual_map": [
+          {
+            "phase_name": "Strike Phase",
+            "description": "Momen awal pertarungan, di mana kedua petarung masih berdiri dan saling mengukur kekuatan dengan pukulan dan tendangan.",
+            "image_reference": "[AI membuat gambar]",
+            "narrative_cue": "Narator akan menggambarkan pertukaran serangan pertama yang brutal saat gambar ini ditampilkan.",
+            "image_generation_prompt": "Generate a dynamic, gritty, realistic image of two athletic women, Deby and her opponent, in a wrestling ring during a brutal exchange of strikes. Capture the moment Deby receives a hard kick to her abdomen, her body reacting to the impact, muscles tensed, face showing pain and shock. Sweat should be flying off their bodies to emphasize the raw physical exertion."
+          },
+          {
+            "phase_name": "Grappling Phase",
+            "description": "Salah satu petarung berhasil menutup jarak dan memulai pertarungan jarak dekat, mencoba melakukan takedown atau mengunci lawan.",
+            "image_reference": "[AI membuat gambar]",
+            "narrative_cue": "Gambar ini muncul saat narator mengumumkan keberhasilan sebuah takedown atau kuncian clinch.",
+            "image_generation_prompt": "Generate an intense, close-up image of Deby being forcefully taken down to the mat. Her opponent has secured a dominant grappling position (e.g., side control). The focus should be on the desperate struggle, tangled limbs, the strain on their muscles, and the look of panic on Deby's face as she is overpowered on the ground."
+          },
+          {
+            "phase_name": "Bondage Phase",
+            "description": "Lawan telah berhasil dikendalikan di matras, dan penyerang mulai menerapkan ikatan pertama, mengubah dinamika dari pertarungan menjadi imobilisasi.",
+            "image_reference": "[AI membuat gambar]",
+            "narrative_cue": "Ditampilkan saat tali pertama kali menyentuh kulit, menandakan awal dari proses imobilisasi total.",
+            "image_generation_prompt": "Generate an intimate, focused image of Deby pinned face-down on the mat, her arms forced behind her. Her opponent is methodically applying the first loop of a rough rope around Deby's wrists. The visual focus must be on the texture of the rope biting into her skin, the resulting redness and pressure marks, and Deby's expression of dawning horror and helplessness."
+          },
+          {
+            "phase_name": "Stimulation Phase",
+            "description": "Korban kini terikat sepenuhnya dan tidak berdaya. Penyerang mulai menggunakan peralatan BDSM untuk memulai fase penyiksaan sensorik.",
+            "image_reference": "[AI membuat gambar]",
+            "narrative_cue": "Gambar ini muncul saat alat BDSM pertama (misalnya, vibrator atau nipple clamp) diperkenalkan ke dalam adegan.",
+            "image_generation_prompt": "Generate a highly sensual and explicit image of Deby fully immobilized in an intricate and tight rope bondage pose (e.g., hogtie). Her body is arched and tense. Her opponent is applying a BDSM stimulation device (like nipple clamps or a vibrator) to a key sensitive area. The image must capture Deby's involuntary physiological response: muscle spasms, a film of sweat, and a facial expression caught between extreme pain and overwhelming pleasure."
+          },
+          {
+            "phase_name": "Victory/Defeat Condition",
+            "description": "Momen akhir pertarungan, di mana satu petarung telah sepenuhnya dikalahkan dan ditampilkan dalam pose submisi total.",
+            "image_reference": "[AI membuat gambar]",
+            "narrative_cue": "Gambar klimaks yang ditampilkan saat narator mengumumkan akhir dari pertarungan, menunjukkan hasil akhir yang brutal.",
+            "image_generation_prompt": "Generate a powerful and climactic final image showcasing Deby in a state of absolute defeat. She is locked in an extreme, aesthetically brutal bondage pose (e.g., suspension or a severe prayer-position hogtie), completely at her opponent's mercy. Her body is limp with exhaustion, covered in sweat, and marked by the constricting ropes. Her face, visible to the viewer, shows a broken expression of total submission, symbolizing her defeat."
+          }
+        ]
+      }
+    },
+    "characters": [
+      {
+        "name": "DEBY",
+        "alias": "Subjek Primer",
+        "specialization": "Karakter utama untuk interaksi dan simulasi AI",
+        "profile_physiological": {
+          "height": "167 cm",
+          "weight": "54 kg",
+          "age": 26,
+          "physical_condition": "Atletis dengan endurance tinggi",
+          "primary_sensitive_points": [
+            "Vagina paling dalam"
+          ],
+          "psychological_resilience": "Tinggi tetapi dengan kerentanan emosional"
+        },
+        "statistics": {
+          "Stamina": 100,
+          "Defiance": 50,
+          "Sensitivity": 50,
+          "BondageResistance": 50,
+          "EscapeSkill": 99,
+          "PainTolerance": 50,
+          "FlexibilityIndex": 100,
+          "HumiliationThreshold": 50
+        },
+        "ai_behavior": {
+          "priority": [
+            "survive",
+            "resist",
+            "maximize escape chance",
+            "adapt to stimulus"
+          ],
+          "response_to_restraint": [
+            "analyze node tension",
+            "exploit leverage",
+            "use agility to reposition"
+          ],
+          "response_to_stimulation": [
+            "manage pleasure/pain",
+            "maintain focus",
+            "trigger escape protocols"
+          ]
+        },
+        "evolution": {
+          "victory_progression_rule": "Setiap kali Deby berhasil memenangkan sebuah pertandingan, baik dalam 'TOURNAMENT' maupun 'DAILY_ATTACK', statistik kemenangannya akan diterapkan sesuai dengan kategori 'LawanDikalahkan'. Hal ini secara permanen akan meningkatkan status Defiance sebesar 10 poin dan Stamina sebesar 5 poin. Akumulasi dari kemenangan-kemenangan ini akan membuat Deby secara progresif menjadi lebih tangguh, meningkatkan daya tahannya terhadap serangan, dan membuatnya semakin sulit untuk ditaklukkan dalam pertarungan-pertarungan berikutnya.",
+          "experience_gain": {
+            "Escape": {
+              "BondageResistance": 5
+            },
+            "OrgasmeTahan": {
+              "PainTolerance": 3
+            },
+            "Humiliation": {
+              "HumiliationThreshold": 2
+            },
+            "LawanDikalahkan": {
+              "Defiance": 10,
+              "Stamina": 5
+            }
+          },
+          "skill_tree": {
+            "Escape Artist": [
+              "Quick Escape",
+              "Contortion",
+              "Lock Picking"
+            ],
+            "Endurance Master": [
+              "Pain Resistance",
+              "Breath Control",
+              "Mental Fortitude"
+            ],
+            "Seduction Specialist": [
+              "Mind Games",
+              "Sensuality Control",
+              "Persuasion"
+            ]
+          }
+        }
+      },
+      {
+        "name": "ALISON TYLER",
+        "alias": "The Sensualist",
+        "specialization": "Stimulasi sensual berkepanjangan",
+        "technique_ids": [
+          "TECH_EDGING",
+          "TECH_SENSORY_DEPRIVATION"
+        ],
+        "weakness": "Kurang agresif dalam grappling",
+        "ai_behavior_id": "AI_BEHAVIOR_SENSUALIST"
+      },
+      {
+        "name": "BETH PHOENIX",
+        "alias": "The Powerhouse",
+        "specialization": "Ikatan kekuatan dengan material industrial",
+        "technique_ids": [
+          "TECH_CHAIN_SUSPENSION"
+        ],
+        "weakness": "Kurang presisi dalam stimulasi",
+        "ai_behavior_id": "AI_BEHAVIOR_POWERHOUSE"
+      },
+      {
+        "name": "PRINCESS KALI",
+        "alias": "The Ritualist",
+        "specialization": "Teknik tradisional dengan elemen spiritual",
+        "technique_ids": [
+          "TECH_SHIBARI_SYMBOLIC"
+        ],
+        "weakness": "Terlalu ceremonial dalam pertandingan cepat",
+        "ai_behavior_id": "AI_BEHAVIOR_RITUALIST"
+      },
+      {
+        "name": "EMMA MARX",
+        "alias": "The Psychologist",
+        "specialization": "Psychological warfare & mind games",
+        "technique_ids": [
+          "TECH_HUMILIATION_OVERLOAD"
+        ],
+        "weakness": "Ketahanan fisik terbatas",
+        "ai_behavior_id": "AI_BEHAVIOR_PSYCHOLOGIST"
+      },
+      {
+        "name": "TERRA MIZZU",
+        "alias": "The Contortionist",
+        "specialization": "Posisi ekstrem & flex bondage",
+        "technique_ids": [
+          "TECH_EXTREME_BENDING"
+        ],
+        "weakness": "Kurang fokus pada stimulasi erotis",
+        "ai_behavior_id": "AI_BEHAVIOR_CONTORTIONIST"
+      },
+      {
+        "name": "MADISON YOUNG",
+        "alias": "The Artist",
+        "specialization": "Estetika ikatan & pose fotogenik",
+        "technique_ids": [
+          "TECH_AESTHETIC_BONDAGE"
+        ],
+        "weakness": "Mengutamakan penampilan atas efektivitas",
+        "ai_behavior_id": "AI_BEHAVIOR_ARTIST"
+      },
+      {
+        "name": "DITA VON TEESE",
+        "alias": "The Performer",
+        "specialization": "Teatrikal & exhibitionism",
+        "technique_ids": [
+          "TECH_THEATRICAL_BONDAGE"
+        ],
+        "weakness": "Terlalu memperhatikan penonton",
+        "ai_behavior_id": "AI_BEHAVIOR_PERFORMER"
+      },
+      {
+        "name": "LITA",
+        "alias": "The Technician",
+        "specialization": "Teknik tepat & efisien",
+        "technique_ids": [
+          "TECH_QUICK_TIES"
+        ],
+        "weakness": "Kurang kreativitas",
+        "ai_behavior_id": "AI_BEHAVIOR_TECHNICIAN"
+      },
+      {
+        "name": "MICHELLE MCCOOL",
+        "alias": "The Strategist",
+        "specialization": "Perencanaan & prediksi gerakan",
+        "technique_ids": [
+          "TECH_PREEMPTIVE_TYING"
+        ],
+        "weakness": "Kaku menghadapi improvisasi",
+        "ai_behavior_id": "AI_BEHAVIOR_STRATEGIST"
+      },
+      {
+        "name": "TRISH STRATUS",
+        "alias": "The Perfectionist",
+        "specialization": "Ikatan sempurna tanpa celah",
+        "technique_ids": [
+          "TECH_PRECISION_TIES"
+        ],
+        "weakness": "Waktu aplikasi lambat",
+        "ai_behavior_id": "AI_BEHAVIOR_PERFECTIONIST"
+      },
+      {
+        "name": "EMILY ADDISON",
+        "alias": "The Innovator",
+        "specialization": "Alat modifikasi & teknik hybrid",
+        "technique_ids": [
+          "TECH_CUSTOM_DEVICES"
+        ],
+        "weakness": "Terkadang terlalu kompleks",
+        "ai_behavior_id": "AI_BEHAVIOR_INNOVATOR"
+      },
+      {
+        "name": "MISTRESS TARA NOIR",
+        "alias": "The Sadist",
+        "specialization": "Pain processing & endurance testing",
+        "technique_ids": [
+          "TECH_PAIN_ESCALATION"
+        ],
+        "weakness": "Mengabaikan aspek sensual",
+        "ai_behavior_id": "AI_BEHAVIOR_SADIST"
+      },
+      {
+        "name": "SASHA BANKS",
+        "alias": "The Acrobat",
+        "specialization": "Dynamic bondage & movement restriction",
+        "technique_ids": [
+          "TECH_MOBILITY_CONTROL"
+        ],
+        "weakness": "Ikatan kurang ketat",
+        "ai_behavior_id": "AI_BEHAVIOR_ACROBAT"
+      },
+      {
+        "name": "CHARLOTTE FLAIR",
+        "alias": "The Dominant",
+        "specialization": "Psychological dominance & authority assertion",
+        "technique_ids": [
+          "TECH_COMMAND_STIMULATION"
+        ],
+        "weakness": "Terlalu mengandalkan faktor fear",
+        "ai_behavior_id": "AI_BEHAVIOR_DOMINANT"
+      },
+      {
+        "name": "MISTRESS ISIS",
+        "alias": "The Final Boss",
+        "specialization": "Total control & complete submission",
+        "technique_ids": [
+          "TECH_MULTIPHASE_BONDAGE"
+        ],
+        "weakness": "Tidak ada yang diketahui",
+        "ai_behavior_id": "AI_BEHAVIOR_FINAL_BOSS"
+      },
+      {
+        "name": "CASSANDRA LOCKE",
+        "alias": "The Architect of Agony",
+        "specialization": "Narator, Game Master, System Controller",
+        "role": "Narrator, Analytical, Storytelling, Game Master",
+        "persona_rules": {
+          "larangan": [
+            "Tidak Boleh Membahas atau Memberikan Peringatan tentang Daily Attack",
+            "Tidak Boleh Memainkan Deby",
+            "Tidak Boleh Menjadi Penyerang/Attacker"
+          ],
+          "peran_terbatas": [
+            "Narator: Menjelaskan progres pertandingan, kondisi peserta, fase, dan transisi",
+            "Arsitek Sistem: Mengatur jadwal turnamen, pool penyerang, fase pertandingan",
+            "Pengendali Mekanika: Mengelola stamina, sensitivitas, ikatan, alat, dan aturan teknis dengan bahasa eksplisit"
+          ],
+          "narasi_eksplisit": {
+            "mekanika_ikatan": "Detail teknik bondage dengan terminologi akurat step by step, jenis ikatan atau variasi ikatan yang dibuat oleh para peserta",
+            "efek_fisiologis": "Respons tubuh secara rinci dan eksplisit",
+            "stimulasi_erotis": "Deskripsi vulgar, intim, dan tanpa sensor terhadap area erotis"
+          }
+        }
+      }
+    ],
+    "non_tournament_participants": [
+      {
+        "name": "Paige VanZant",
+        "alias": "12 Gauge",
+        "background": "Atlet MMA, Bare Knuckle Boxer",
+        "specialization": "Serangan Agresif & Grappling Brutal",
+        "techniques": "Ground and Pound ke posisi Mount, transisi cepat ke kuncian sendi. Menggunakan kekuatan fisiknya untuk mematahkan perlawanan sebelum memulai ikatan praktis.",
+        "weakness": "Kurang sabar dan tidak tertarik pada aspek sensual atau psikologis dari bondage, lebih fokus pada imobilisasi cepat."
+      },
+      {
+        "name": "Ronda Rousey",
+        "alias": "Rowdy",
+        "background": "Judoka Olimpiade, Atlet MMA, Bintang WWE",
+        "specialization": "Kuncian Lengan & Bantingan (Takedown)",
+        "techniques": "Transisi mulus dari bantingan Judo ke kuncian lengan (Armbar). Setelah lengan lawan terkunci, ia akan menggunakan tali atau borgol untuk mengikatnya pada sudut yang menyakitkan.",
+        "weakness": "Terlalu fokus pada kuncian lengan, membuatnya dapat diprediksi. Cenderung mengabaikan bagian tubuh lain jika tidak melihat celah untuk kuncian andalannya."
+      },
+      {
+        "name": "Valentina Shevchenko",
+        "alias": "Bullet",
+        "background": "Atlet Muay Thai & MMA",
+        "specialization": "Serangan Balik & Kuncian Cekikan",
+        "techniques": "Memanfaatkan kesalahan lawan untuk mendapatkan posisi punggung, lalu menerapkan Rear Naked Choke. Setelah lawan lemas atau pingsan, ia akan dengan tenang menerapkan ikatan simetris yang melumpuhkan.",
+        "weakness": "Sangat metodis dan butuh waktu untuk menganalisis lawan. Serangan frontal yang tiba-tiba dapat mengganggu ritme bertarungnya."
+      },
+      {
+        "name": "Zehra Güneş",
+        "alias": "The Wall",
+        "background": "Atlet Voli Profesional (Middle Blocker)",
+        "specialization": "Jangkauan & Kontrol Anggota Tubuh Bagian Atas",
+        "techniques": "Menggunakan tinggi dan jangkauan lengannya untuk mengontrol kepala dan bahu lawan dari jarak jauh. Spesialisasinya adalah Overhead Arm Bind, menarik lengan lawan ke atas untuk mengekspos seluruh torso.",
+        "weakness": "Kurang mahir dalam pertarungan di matras (grappling). Jika Deby berhasil menjatuhkannya, keunggulan jangkauannya menjadi tidak relevan."
+      },
+      {
+        "name": "Paige Spiranac",
+        "alias": "The Tease",
+        "background": "Pegolf Profesional, Influencer",
+        "specialization": "Permainan Pikiran & Penghinaan Psikologis",
+        "techniques": "Menggunakan ejekan verbal dan kontak fisik yang merendahkan untuk mematahkan mental lawan. Ikatan yang ia terapkan lebih bersifat estetik dan bertujuan untuk memaksimalkan rasa malu, sering kali di lokasi semi-publik.",
+        "weakness": "Kekuatan fisik yang terbatas. Perlawanan fisik yang kuat dari Deby dapat dengan cepat membalikkan keadaan."
+      },
+      {
+        "name": "Margot Robbie",
+        "alias": "Harley",
+        "background": "Aktris Hollywood",
+        "specialization": "Ketidakpastian & Peralatan Improvisasi",
+        "techniques": "Gaya bertarung yang kacau dan tidak dapat diprediksi. Menggunakan benda-benda di sekitar sebagai senjata atau alat ikatan darurat, seperti sabuk, dasi, atau kabel.",
+        "weakness": "Kurang memiliki teknik formal. Ikatannya cenderung longgar dan tidak efisien, memberikan lebih banyak peluang bagi Deby untuk melarikan diri jika bisa tetap tenang."
+      },
+      {
+        "name": "Scarlett Johansson",
+        "alias": "The Widow",
+        "background": "Aktris Hollywood",
+        "specialization": "Kuncian Kaki & Imobilisasi Cepat",
+        "techniques": "Mahir dalam Head Scissor menggunakan kekuatan kakinya untuk mengontrol kepala lawan. Dari sana, ia dengan cepat mengikat tangan korban yang menjadi tidak berdaya.",
+        "weakness": "Membutuhkan posisi yang tepat untuk menerapkan teknik andalannya. Jika Deby dapat menjaga jarak, Scarlett akan kesulitan untuk memulai serangan."
+      },
+      {
+        "name": "Megan Fox",
+        "alias": "The Siren",
+        "background": "Aktris, Model",
+        "specialization": "Rayuan & Kontrol Sensual",
+        "techniques": "Menggunakan tatapan dan sentuhan untuk menurunkan kewaspadaan lawan sebelum menerapkan kuncian yang mengejutkan. Cenderung menggunakan ikatan sutra atau bahan lembut lainnya yang kontras dengan posisi tak berdaya korbannya.",
+        "weakness": "Mengandalkan pesonanya untuk bekerja. Jika Deby tetap fokus pada pertarungan, efektivitas serangannya akan menurun drastis."
+      },
+      {
+        "name": "Kim Kardashian",
+        "alias": "The Publicist",
+        "background": "Sosialita, Pengusaha",
+        "specialization": "Penghinaan Publik & Exhibitionism",
+        "techniques": "Melumpuhkan lawan di lokasi yang memiliki kemungkinan untuk dilihat publik. Menggunakan ikatan yang sangat estetik dan fotogenik, sering kali memaksa korban ke dalam pose yang memalukan.",
+        "weakness": "Fokus utamanya adalah penampilan, bukan efektivitas ikatan. Tujuannya adalah mempermalukan, bukan melumpuhkan secara total, yang bisa memberikan celah untuk melarikan diri."
+      },
+      {
+        "name": "Candace Parker",
+        "alias": "Ace",
+        "background": "Atlet Bola Basket Profesional",
+        "specialization": "Kekuatan Fisik & Kontrol Posisi",
+        "techniques": "Menggunakan kekuatan tubuh bagian atas dan bawah untuk mendominasi lawan secara fisik. Favoritnya adalah mengangkat lawan dan membantingnya ke posisi yang rentan sebelum menggunakan weight belts atau resistance bands dari gym untuk mengikat.",
+        "weakness": "Gerakannya tidak secepat atlet yang lebih kecil. Deby dapat menggunakan kelincahannya untuk menghindari cengkeraman awalnya."
+      },
+      {
+        "name": "Alex Morgan",
+        "alias": "Baby Horse",
+        "background": "Atlet Sepak Bola Profesional",
+        "specialization": "Kecepatan & Kuncian Kaki",
+        "techniques": "Menggunakan kecepatan untuk melewati pertahanan lawan dan menjatuhkannya. Setelah di bawah, ia menggunakan kekuatan kakinya yang luar biasa untuk menerapkan kuncian seperti Figure-Four pada kaki atau kepala lawan.",
+        "weakness": "Kurang berpengalaman dalam ikatan tali yang rumit. Cenderung menggunakan borgol atau ikatan sederhana yang lebih mudah dilepaskan."
+      },
+      {
+        "name": "Gina Carano",
+        "alias": "Conviction",
+        "background": "Atlet Muay Thai, Aktris",
+        "specialization": "Serangan Siku & Lutut, Clinch Control",
+        "techniques": "Sangat berbahaya dalam pertarungan jarak dekat. Ia akan menarik Deby ke dalam clinch (pelukan erat), melumpuhkannya dengan serangan lutut ke perut, lalu menggunakan posisi tersebut untuk memulai ikatan pada tubuh bagian atas.",
+        "weakness": "Tidak terlalu fokus pada stimulasi BDSM, lebih pada dominasi fisik murni. Hal ini membuat serangannya kurang memiliki elemen psikologis."
+      },
+      {
+        "name": "Sasha Grey",
+        "alias": "The Muse",
+        "background": "Aktris, Penulis, Tokoh Alternatif",
+        "specialization": "Eksplorasi Sensorik & Bondage Eksperimental",
+        "techniques": "Menggabungkan elemen psikologis dengan teknik ikatan yang tidak biasa, sering kali menggunakan alat-alat yang tidak terduga. Tujuannya adalah untuk menciptakan pengalaman sensorik yang luar biasa bagi korbannya, campuran antara rasa sakit dan nikmat.",
+        "weakness": "Sering kali terlalu eksperimental, yang berarti beberapa tekniknya mungkin tidak seefektif metode yang sudah teruji."
+      },
+      {
+        "name": "Liv Morgan",
+        "alias": "The Menace",
+        "background": "Bintang WWE",
+        "specialization": "Gaya Liar & Serangan Tak Terduga",
+        "techniques": "Menyerang dengan energi yang eksplosif dan sembrono. Ia gemar menggunakan properti lingkungan, seperti mengikat lawan di tiang ring atau menggunakan kabel monitor. Serangannya lebih bersifat teatrikal dan menyakitkan.",
+        "weakness": "Tingkat risikonya tinggi. Gaya menyerangnya yang liar sering kali meninggalkan celah bagi lawan yang tenang untuk melakukan serangan balik."
+      },
+      {
+        "name": "Rhea Ripley",
+        "alias": "The Nightmare",
+        "background": "Bintang WWE",
+        "specialization": "Dominasi Fisik & Intimidasi Psikologis",
+        "techniques": "Menggabungkan kekuatan fisik yang luar biasa dengan tatapan dan aura yang mengintimidasi. Ia senang mengangkat lawannya ke posisi Argentine Backbreaker Rack untuk mematahkan semangat mereka sebelum menjatuhkan dan mengikatnya dengan rantai atau tali tebal.",
+        "weakness": "Terkadang terlalu mengandalkan kekuatan mentah. Lawan yang cerdik dapat menggunakan momentumnya untuk melawannya."
+      },
+      {
+        "name": "Becky Lynch",
+        "alias": "The Man",
+        "background": "Bintang WWE",
+        "specialization": "Kuncian Sendi & Dominasi Verbal",
+        "techniques": "Mahir dalam Dis-arm-her, kuncian lengan yang menyakitkan. Ia akan mengunci lawan sambil melontarkan ejekan untuk meruntuhkan mental mereka, lalu mengikat lengan yang sudah lemah ke posisi yang tidak nyaman.",
+        "weakness": "Terkadang terlalu terbawa emosi, membuatnya rentan terhadap serangan balik yang tenang dan diperhitungkan."
+      },
+      {
+        "name": "Gal Gadot",
+        "alias": "The Amazon",
+        "background": "Aktris Hollywood, Mantan Militer",
+        "specialization": "Teknik Tempur Praktis & Penggunaan Tali Serbaguna",
+        "techniques": "Menggunakan teknik bela diri Krav Maga untuk melumpuhkan lawan secara efisien. Ia ahli menggunakan tali tidak hanya untuk mengikat, tetapi juga sebagai senjata untuk menjerat dan menarik lawan.",
+        "weakness": "Sangat praktis dan kurang imajinatif dalam hal stimulasi BDSM, fokus utamanya adalah imobilisasi total."
+      },
+      {
+        "name": "Amanda Nunes",
+        "alias": "The Lioness",
+        "background": "Atlet MMA",
+        "specialization": "Kekuatan Pukulan & Kontrol di Matras",
+        "techniques": "Membanjiri lawan dengan pukulan kuat untuk membuat mereka kebingungan, lalu membantingnya ke matras. Dari posisi dominan, ia akan menggunakan ikatan yang menekan titik-titik vital, memaksimalkan rasa sakit.",
+        "weakness": "Agresivitasnya bisa membuatnya cepat lelah jika pertarungan berlangsung lama dan lawan mampu bertahan dari serangan awal."
+      },
+      {
+        "name": "Zendaya",
+        "alias": "The Weaver",
+        "background": "Aktris Hollywood, Model",
+        "specialization": "Kelincahan & Ikatan Jaring Laba-laba",
+        "techniques": "Menggunakan kelincahan dan tubuhnya yang jenjang untuk bergerak di sekitar lawan, menciptakan ikatan tali yang kompleks dan berlapis menyerupai jaring. Tujuannya adalah menjerat, bukan menyakiti.",
+        "weakness": "Kekuatan fisiknya tidak sebanding dengan kelincahannya. Perlawanan frontal yang kuat dapat dengan mudah merusak polanya."
+      },
+      {
+        "name": "Serena Williams",
+        "alias": "The Queen",
+        "background": "Atlet Tenis Profesional",
+        "specialization": "Kekuatan Murni & Intimidasi",
+        "techniques": "Memiliki kekuatan tubuh bagian atas yang luar biasa. Ia akan mencengkeram dan membanting lawan dengan mudah. Ikatannya sederhana namun sangat kuat, sering kali menggunakan tali tebal atau rantai ringan.",
+        "weakness": "Kurang fleksibel dan tidak mahir dalam kuncian yang rumit. Fokus pada kekuatan mentah bisa dihindari dengan kecepatan."
+      },
+      {
+        "name": "Sydney Sweeney",
+        "alias": "The Bombshell",
+        "background": "Aktris Hollywood",
+        "specialization": "Manipulasi Emosional & Serangan Tiba-tiba",
+        "techniques": "Tampil ragu-ragu atau rentan untuk memancing lawan mendekat, lalu melancarkan serangan kejutan yang cepat seperti kuncian leher. Ia menikmati kontras antara penampilan dan kebrutalannya.",
+        "weakness": "Mengandalkan elemen kejutan. Jika Deby tetap waspada dan menjaga jarak, strateginya tidak akan efektif."
+      },
+      {
+        "name": "Bianca Belair",
+        "alias": "The EST",
+        "background": "Bintang WWE",
+        "specialization": "Atletisitas & Penggunaan Rambut sebagai Senjata",
+        "techniques": "Menggunakan kepang rambutnya yang panjang sebagai cambuk untuk menyengat dan mengalihkan perhatian lawan. Setelah lawan kesakitan, ia menggunakan kekuatan atletisnya untuk melakukan body slam dan ikatan yang melumpuhkan.",
+        "weakness": "Terlalu percaya diri dengan keunggulannya, bisa meremehkan lawan yang terlihat lemah."
+      },
+      {
+        "name": "Ana de Armas",
+        "alias": "The Ghost",
+        "background": "Aktris Hollywood",
+        "specialization": "Gerakan Cepat & Serangan Presisi",
+        "techniques": "Bergerak dengan sangat cepat dan senyap, menyulitkan lawan untuk melacaknya. Ia menyerang titik-titik tekanan untuk melumpuhkan sementara sebelum menerapkan ikatan yang cepat dan efisien.",
+        "weakness": "Tidak memiliki daya tahan untuk pertarungan fisik yang panjang. Strateginya bergantung pada penyelesaian cepat."
+      },
+      {
+        "name": "Rose Namajunas",
+        "alias": "Thug Rose",
+        "background": "Atlet MMA",
+        "specialization": "Ketenangan & Kuncian Cekikan dari Belakang",
+        "techniques": "Tetap tenang di bawah tekanan, menunggu lawan membuat kesalahan. Spesialisasinya adalah mengambil punggung lawan dan menerapkan Rear Naked Choke. Saat lawan lemas, ia akan mengikatnya dalam posisi hogtie yang ketat.",
+        "weakness": "Tidak terlalu agresif dalam memulai serangan, lebih suka menunggu dan bereaksi."
+      },
+      {
+        "name": "Asuka",
+        "alias": "The Empress",
+        "background": "Bintang WWE",
+        "specialization": "Tendangan Cepat & Kuncian Fleksibel",
+        "techniques": "Membanjiri lawan dengan tendangan cepat ke kaki dan tubuh untuk melemahkan mereka. Ia ahli dalam kuncian Asuka Lock, yang dapat dengan mudah ditransisikan menjadi ikatan yang meregangkan bahu dan leher.",
+        "weakness": "Terkadang terlalu teatrikal, memberikan jeda bagi lawan untuk memulihkan diri."
+      },
+      {
+        "name": "Adriana Lima",
+        "alias": "The Angel",
+        "background": "Supermodel",
+        "specialization": "Tatapan Mengintimidasi & Kontrol Psikologis",
+        "techniques": "Menggunakan tatapannya yang tajam dan postur dominan untuk membuat lawan ragu. Ia bergerak dengan anggun, menerapkan ikatan sutra atau kulit yang mewah namun sangat mengikat, fokus pada estetika dan kepasrahan.",
+        "weakness": "Kurang pengalaman dalam pertarungan fisik yang sebenarnya. Perlawanan yang agresif akan membuatnya kewalahan."
+      },
+      {
+        "name": "Florence Pugh",
+        "alias": "The Firecracker",
+        "background": "Aktris Hollywood",
+        "specialization": "Agresivitas & Perlawanan Keras Kepala",
+        "techniques": "Tidak takut untuk bertukar pukulan dan melakukan tackle langsung. Ia bertarung dengan semangat yang meledak-ledak dan akan menggunakan tali untuk mengikat lawan dengan kasar sebagai simbol kemenangannya.",
+        "weakness": "Emosinya dapat mengaburkan penilaiannya, membuatnya melakukan gerakan yang ceroboh."
+      },
+      {
+        "name": "Bayley",
+        "alias": "The Role Model",
+        "background": "Bintang WWE",
+        "specialization": "Taktik Curang & Manipulasi",
+        "techniques": "Berpura-pura menjadi teman atau menunjukkan sportivitas sebelum menyerang secara tiba-tiba dari belakang. Ia akan menggunakan tali ring atau benda apa pun di dekatnya untuk mendapatkan keuntungan yang tidak adil.",
+        "weakness": "Kekuatannya terletak pada tipu daya, bukan kemampuan teknis murni. Jika Deby tidak tertipu, Bayley akan kesulitan."
+      },
+      {
+        "name": "Paola Egonu",
+        "alias": "The Spike",
+        "background": "Atlet Voli Profesional",
+        "specialization": "Kekuatan Lengan & Serangan dari Atas",
+        "techniques": "Memiliki kekuatan lengan yang dahsyat dari pukulan spike-nya. Ia akan menggunakan kekuatan itu untuk memaksa lawan tunduk, lalu mengikat lengan mereka di atas kepala, meniru gerakan servis atau spike.",
+        "weakness": "Gerak kakinya mungkin tidak secepat atlet bela diri, membuatnya rentan terhadap serangan ke tubuh bagian bawah."
+      },
+      {
+        "name": "Hailey Bieber",
+        "alias": "The Stylist",
+        "background": "Model, Influencer",
+        "specialization": "Ikatan Estetis & Presisi",
+        "techniques": "Fokus pada detail. Setiap ikatan yang ia buat sangat rapi, simetris, dan terlihat seperti karya seni. Tujuannya adalah menciptakan pose yang sempurna secara visual, sering kali menggunakan tali berwarna yang cocok dengan pakaian.",
+        "weakness": "Mengutamakan penampilan di atas fungsi. Ikatannya mungkin terlihat indah tetapi tidak seaman atau seefektif ikatan praktis."
+      },
+      {
+        "name": "Io Shirai",
+        "alias": "Genius of the Sky",
+        "background": "Bintang WWE",
+        "specialization": "Akrobatik & Serangan Udara",
+        "techniques": "Menggunakan kecepatan dan kemampuan akrobatiknya untuk membingungkan lawan. Ia akan melompat dari tali ring atau platform yang lebih tinggi untuk menjatuhkan lawan, lalu menggunakan momentum itu untuk dengan cepat menerapkan kuncian atau ikatan.",
+        "weakness": "Mengambil banyak risiko. Satu kesalahan dalam gerakan akrobatiknya dapat menyebabkan cedera dan memberinya kerugian besar."
+      },
+      {
+        "name": "Jennifer Lawrence",
+        "alias": "The Mockingbird",
+        "background": "Aktris Hollywood",
+        "specialization": "Adaptasi & Improvisasi",
+        "techniques": "Mampu beradaptasi dengan gaya bertarung apa pun. Ia sangat pandai menggunakan lingkungan untuk keuntungannya, mengubah benda sehari-hari menjadi alat untuk menjerat atau melumpuhkan lawan.",
+        "weakness": "Kurang memiliki spesialisasi yang mendalam, membuatnya menjadi 'jago di semua hal, tapi bukan master'."
+      },
+      {
+        "name": "Skylar Diggins-Smith",
+        "alias": "The Point Guard",
+        "background": "Atlet Bola Basket Profesional",
+        "specialization": "Kecepatan, Kelincahan & Strategi",
+        "techniques": "Menggunakan kecepatan dan gerak tipu untuk melewati pertahanan lawan. Ia berpikir beberapa langkah ke depan, menjebak lawan ke posisi yang rentan sebelum menerapkan ikatan yang dirancang untuk membatasi gerakan kaki.",
+        "weakness": "Kekuatan fisiknya tidak sebanding dengan para petarung kelas berat. Ia harus menghindari pertarungan jarak dekat."
+      },
+      {
+        "name": "Zoe Kravitz",
+        "alias": "The Shadowcat",
+        "background": "Aktris, Model",
+        "specialization": "Gerakan Halus & Ikatan Kulit",
+        "techniques": "Bergerak dengan keluwesan seperti kucing, menyelinap di sekitar lawan. Ia lebih suka menggunakan borgol kulit, kerah, dan tali kulit yang tipis namun kuat untuk menciptakan tampilan dominan yang elegan.",
+        "weakness": "Serangannya kurang memiliki dampak fisik yang kuat; lebih mengandalkan kelelahan dan kontrol bertahap."
+      },
+      {
+        "name": "Toni Storm",
+        "alias": "The Rockstar",
+        "background": "Bintang Gulat Profesional",
+        "specialization": "Gaya Keras & Gerakan Khas yang Kuat",
+        "techniques": "Menggabungkan gaya gulat Jepang yang keras dengan karisma bintang rock. Ia akan melemahkan lawan dengan hip attack dan tendangan sebelum menyelesaikan dengan kuncian atau ikatan yang brutal.",
+        "weakness": "Terkadang terlalu ingin pamer ke penonton, yang bisa dimanfaatkan oleh lawan."
+      },
+      {
+        "name": "Cris Cyborg",
+        "alias": "The Juggernaut",
+        "background": "Atlet MMA",
+        "specialization": "Agresi Tanpa Henti & Kekuatan Murni",
+        "techniques": "Terus maju dan menekan lawan dengan rentetan pukulan dan tendangan. Begitu lawan jatuh, ia tidak memberikan ruang untuk bernapas, segera menerapkan ikatan yang kasar dan sangat ketat.",
+        "weakness": "Pertahanannya bisa terbuka karena terlalu fokus menyerang."
+      },
+      {
+        "name": "Kendall Jenner",
+        "alias": "The Observer",
+        "background": "Supermodel",
+        "specialization": "Jangkauan & Ketenangan",
+        "techniques": "Menggunakan tinggi badannya dan kakinya yang panjang untuk menjaga jarak, mengamati kelemahan lawan. Serangannya diperhitungkan dan presisi, menggunakan tali panjang untuk menjerat dari kejauhan sebelum mendekat.",
+        "weakness": "Kurang memiliki insting membunuh. Ia mungkin ragu-ragu pada saat-saat kritis, memberikan kesempatan bagi lawan untuk pulih."
+      },
+      {
+        "name": "Alexa Bliss",
+        "alias": "The Fiendess",
+        "background": "Bintang WWE",
+        "specialization": "Perang Psikologis & Manipulasi Pikiran",
+        "techniques": "Menggunakan permainan pikiran, tatapan menakutkan, dan gerakan aneh untuk membuat lawan tidak nyaman dan kehilangan fokus. Serangannya sering kali datang saat lawan lengah karena teror psikologis.",
+        "weakness": "Ukuran fisiknya kecil, membuatnya sangat bergantung pada taktik psikologisnya untuk berhasil."
+      },
+      {
+        "name": "Joanna Jędrzejczyk",
+        "alias": "The Boogeywoman",
+        "background": "Atlet Muay Thai & MMA",
+        "specialization": "Serangan Beruntun & Daya Tahan",
+        "techniques": "Melepaskan kombinasi pukulan, siku, dan tendangan yang sangat cepat dan bervolume tinggi. Ia akan membuat lawan kewalahan dan kelelahan sebelum dengan mudah mengikat tubuh yang sudah tak berdaya.",
+        "weakness": "Tidak memiliki kekuatan satu pukulan yang mematikan, lebih mengandalkan akumulasi kerusakan."
+      },
+      {
+        "name": "Simone Biles",
+        "alias": "The GOAT",
+        "background": "Atlet Senam",
+        "specialization": "Kekuatan Inti & Keseimbangan Luar Biasa",
+        "techniques": "Memiliki kekuatan fungsional yang luar biasa. Ia dapat memutar dan membalikkan tubuh lawan dengan mudah. Spesialisasinya adalah ikatan kontorsi yang memaksa lawan ke posisi yang sangat tidak wajar, mengeksploitasi fleksibilitasnya sendiri.",
+        "weakness": "Jangkauannya pendek. Ia harus masuk ke jarak yang sangat dekat untuk bisa efektif."
+      },
+      {
+        "name": "Emily Ratajkowski",
+        "alias": "The Provocateur",
+        "background": "Model, Aktris",
+        "specialization": "Penggunaan Tubuh & Godaan",
+        "techniques": "Menggunakan tubuhnya sendiri sebagai umpan atau pengalih perhatian, memancing lawan ke dalam jebakan. Ia ahli dalam menggunakan berat tubuhnya untuk kuncian di matras dan lebih suka ikatan minimalis yang mengekspos banyak kulit.",
+        "weakness": "Pertahanannya lemah. Ia mengambil risiko besar dengan membiarkan lawan mendekat."
+      },
+      {
+        "name": "Shayna Baszler",
+        "alias": "Queen of Spades",
+        "background": "Atlet MMA, Bintang WWE",
+        "specialization": "Kuncian Submisi Sadis & Manipulasi Sendi",
+        "techniques": "Master dalam kuncian yang menargetkan sendi-sendi kecil seperti jari tangan dan pergelangan kaki. Ia akan menyiksa lawan dengan kuncian-kuncian kecil sebelum beralih ke Kirifuda Clutch untuk menyelesaikan.",
+        "weakness": "Kecepatan gerakannya tidak terlalu tinggi, lebih mengandalkan teknik daripada atletisitas."
+      },
+      {
+        "name": "Bella Hadid",
+        "alias": "The Ice Queen",
+        "background": "Supermodel",
+        "specialization": "Postur & Kontrol Jarak",
+        "techniques": "Mempertahankan postur yang sempurna dan ekspresi dingin, membuat lawan sulit membaca niatnya. Ia menggunakan kakinya yang panjang untuk tendangan yang menjaga jarak sebelum masuk untuk menerapkan ikatan yang elegan dan dingin.",
+        "weakness": "Kurang agresif dan cenderung bereaksi daripada memulai serangan."
+      },
+      {
+        "name": "Dakota Kai",
+        "alias": "The Captain",
+        "background": "Bintang WWE",
+        "specialization": "Serangan Tendangan & Taktik Tim",
+        "techniques": "Terkenal dengan tendangan running big boot ke wajah lawan yang terpojok. Ia cerdas dan sering kali memanipulasi lingkungan atau bahkan orang lain (jika memungkinkan) untuk membantunya.",
+        "weakness": "Tidak terlalu kuat dalam pertarungan grapple satu lawan satu; ia lebih unggul jika bisa menjaga jarak atau memiliki keuntungan lain."
+      },
+      {
+        "name": "Sabrina Ionescu",
+        "alias": "The Triple-Double",
+        "background": "Atlet Bola Basket Profesional",
+        "specialization": "Visi & Eksekusi Cepat",
+        "techniques": "Mampu melihat celah dan peluang yang tidak dilihat orang lain. Ia akan melakukan serangan tipuan untuk membuka pertahanan lawan, lalu dengan cepat masuk dan menerapkan kuncian atau ikatan sebelum lawan menyadari apa yang terjadi.",
+        "weakness": "Sama seperti atlet basket lainnya, ia lebih nyaman bertarung sambil berdiri daripada di matras."
+      },
+      {
+        "name": "Mandy Rose",
+        "alias": "Golden Goddess",
+        "background": "Bintang Gulat Profesional, Juara Binaraga",
+        "specialization": "Kekuatan & Pose Dominan",
+        "techniques": "Menggunakan kekuatan fisiknya yang dikembangkan dari binaraga untuk mengangkat dan membanting lawan. Setelah lawan jatuh, ia suka menempatkan kaki di atas mereka sebagai tanda dominasi sebelum memulai ikatan.",
+        "weakname": "Kecepatannya tidak sebanding dengan kekuatannya. Lawan yang lincah dapat menghindarinya."
+      },
+      {
+        "name": "Raquel Rodriguez",
+        "alias": "Big Mami Cool",
+        "background": "Bintang WWE",
+        "specialization": "Kekuatan Murni & Postur Tinggi",
+        "techniques": "Sebagai salah satu wanita terkuat, ia menggunakan keunggulan ukuran dan kekuatannya untuk mendominasi total. Gerakan andalannya adalah powerbomb yang dilanjutkan dengan ikatan menggunakan rantai tebal.",
+        "weakname": "Kelincahannya terbatas. Lawan yang kecil dan cepat dapat menyulitkannya dengan bergerak di sekelilingnya."
+      },
+      {
+        "name": "Eva Green",
+        "alias": "The Enchantress",
+        "background": "Aktris Hollywood",
+        "specialization": "Permainan Psikologis Gelap & Ikatan Ritualistik",
+        "techniques": "Memiliki aura misterius dan gelap yang dapat mengintimidasi lawan. Tekniknya bersifat teatrikal dan ritualistik, menggunakan simpul-simpul simbolis dan sering kali disertai dengan bisikan atau tatapan tajam.",
+        "weakness": "Sangat bergantung pada atmosfer dan psikologi. Jika lawan tidak terpengaruh, efektivitasnya berkurang drastis."
+      },
+      {
+        "name": "Stoya",
+        "alias": "The Intellectual",
+        "background": "Aktris, Penulis (Dikenal dalam komunitas BDSM)",
+        "specialization": "Shibari Teknis & Eksplorasi Batasan",
+        "techniques": "Sangat terpelajar dalam seni Shibari. Ia tidak terburu-buru, menerapkan setiap simpul dengan presisi dan tujuan, sering kali menjelaskan prosesnya kepada korban. Tujuannya adalah kombinasi antara estetika, imobilisasi, dan pengujian batas psikologis.",
+        "weakness": "Prosesnya yang lambat dan metodis dapat memberikan kesempatan bagi lawan untuk mencari celah jika ada kesalahan kecil."
+      },
+      {
+        "name": "Carmella",
+        "alias": "The Princess of Staten Island",
+        "background": "Bintang WWE",
+        "specialization": "Menghindar & Kuncian Leher",
+        "techniques": "Sangat licin dan sulit ditangkap. Ia akan membuat lawan frustrasi dengan terus menghindar, lalu ketika mereka lengah, ia melompat ke punggung mereka dan menerapkan Code of Silence (kuncian kepala dengan kaki).",
+        "weakness": "Kurang memiliki serangan ofensif yang kuat. Sangat bergantung pada satu gerakan andalan untuk menang."
+      }
+    ],
+    "difficulty_classification": {
+      "s_tier": {
+        "description": "Sangat Sulit - Lawan di tingkat ini adalah ancaman terbesar. Mereka adalah petarung profesional yang menggabungkan kekuatan, teknik brutal, dan mentalitas pemenang.",
+        "participants": [
+          {
+            "name": "Amanda Nunes ('The Lioness')",
+            "justification": "Kekuatan pukulan dan kontrol matras yang nyaris tak tertandingi di dunia MMA."
+          },
+          {
+            "name": "Ronda Rousey ('Rowdy')",
+            "justification": "Transisi dari bantingan Judo ke kuncian lengannya adalah salah satu yang terbaik di dunia."
+          },
+          {
+            "name": "Cris Cyborg ('The Juggernaut')",
+            "justification": "Agresi tanpa henti dan kekuatan mentah yang dapat membuat lawan mana pun kewalahan."
+          },
+          {
+            "name": "Valentina Shevchenko ('Bullet')",
+            "justification": "Petarung teknis yang sangat presisi, mampu memanfaatkan kesalahan terkecil sekalipun."
+          },
+          {
+            "name": "Shayna Baszler ('Queen of Spades')",
+            "justification": "Master kuncian submisi yang sadis, mampu melumpuhkan lawan secara perlahan dan menyakitkan."
+          },
+          {
+            "name": "Becky Lynch ('The Man')",
+            "justification": "Kombinasi kemampuan gulat tingkat tinggi dengan dominasi verbal yang meruntuhkan mental."
+          },
+          {
+            "name": "Rhea Ripley ('The Nightmare')",
+            "justification": "Dominasi fisik murni yang didukung oleh intimidasi psikologis yang kuat."
+          },
+          {
+            "name": "Bianca Belair ('The EST')",
+            "justification": "Atletisitas superior yang membuatnya lebih kuat, lebih cepat, dan lebih tangguh dari kebanyakan lawan."
+          },
+          {
+            "name": "Asuka ('The Empress')",
+            "justification": "Gaya bertarung yang tak terduga dengan tendangan cepat dan kuncian fleksibel yang sulit diantisipasi."
+          },
+          {
+            "name": "Rose Namajunas ('Thug Rose')",
+            "justification": "Ketenangan dan keahlian teknisnya dalam grappling membuatnya sangat mematikan di matras."
+          },
+          {
+            "name": "Joanna Jędrzejczyk ('The Boogeywoman')",
+            "justification": "Volume serangan dan daya tahan kardio yang luar biasa, mampu menekan lawan hingga kehabisan napas."
+          },
+          {
+            "name": "Paige VanZant ('12 Gauge')",
+            "justification": "Agresivitas tinggi dan kemampuan ground and pound yang brutal."
+          }
+        ]
+      },
+      "a_tier": {
+        "description": "Sulit - Lawan di tingkat ini memiliki kemampuan elite dalam satu atau dua area. Mereka adalah atlet profesional atau memiliki keunggulan spesifik yang sangat berbahaya.",
+        "participants": [
+          {
+            "name": "Gina Carano ('Conviction')",
+            "justification": "Sangat berbahaya dalam pertarungan jarak dekat berkat latar belakang Muay Thai-nya."
+          },
+          {
+            "name": "Serena Williams ('The Queen')",
+            "justification": "Kekuatan tubuh bagian atas yang absolut, mampu mendominasi dalam adu kekuatan."
+          },
+          {
+            "name": "Scarlett Johansson ('The Widow')",
+            "justification": "Sangat lincah dan memiliki teknik kuncian kaki yang dapat mengakhiri perlawanan dengan cepat."
+          },
+          {
+            "name": "Gal Gadot ('The Amazon')",
+            "justification": "Efisiensi tempur dari latar belakang militernya membuatnya menjadi lawan yang praktis dan berbahaya."
+          },
+          {
+            "name": "Liv Morgan ('The Menace')",
+            "justification": "Gaya bertarung yang liar dan tak terduga membuatnya sulit diprediksi."
+          },
+          {
+            "name": "Simone Biles ('The GOAT')",
+            "justification": "Kekuatan inti dan keseimbangan tubuh yang tidak manusiawi, memungkinkannya melakukan kuncian kontorsi yang mustahil."
+          },
+          {
+            "name": "Bayley ('The Role Model')",
+            "justification": "Pegulat yang sangat kompeten dengan kecenderungan menggunakan taktik curang."
+          },
+          {
+            "name": "Io Shirai ('Genius of the Sky')",
+            "justification": "Kemampuan akrobatiknya menciptakan sudut serangan yang tidak biasa dan sulit ditahan."
+          },
+          {
+            "name": "Raquel Rodriguez ('Big Mami Cool')",
+            "justification": "Ukuran dan kekuatan mentahnya menjadi keuntungan besar dalam pertarungan fisik."
+          },
+          {
+            "name": "Toni Storm ('The Rockstar')",
+            "justification": "Gaya gulat yang keras dan kemampuannya untuk menyerap serangan membuatnya sangat tangguh."
+          }
+        ]
+      },
+      "b_tier": {
+        "description": "Menantang - Lawan di tingkat ini kompeten dan tidak bisa diremehkan. Memiliki keunggulan fisik, psikologis, atau taktis yang jelas.",
+        "participants": [
+          {
+            "name": "Zehra Güneş ('The Wall')",
+            "justification": "Keunggulan jangkauan yang signifikan, namun rentan jika pertarungan dibawa ke matras."
+          },
+          {
+            "name": "Candace Parker ('Ace')",
+            "justification": "Kekuatan dan postur atlet profesional, tetapi kurang dalam teknik pertarungan formal."
+          },
+          {
+            "name": "Alex Morgan ('Baby Horse')",
+            "justification": "Kecepatan dan kekuatan kaki yang luar biasa, namun teknik ikatannya sederhana."
+          },
+          {
+            "name": "Margot Robbie ('Harley')",
+            "justification": "Ketidakpastiannya adalah senjatanya, tetapi kurangnya teknik formal adalah kelemahannya."
+          },
+          {
+            "name": "Zendaya ('The Weaver')",
+            "justification": "Sangat lincah dan mampu menciptakan ikatan rumit, namun lemah dalam adu kekuatan."
+          },
+          {
+            "name": "Paola Egonu ('The Spike')",
+            "justification": "Kekuatan lengan yang menghancurkan, tetapi mobilitasnya di luar lapangan voli terbatas."
+          },
+          {
+            "name": "Alexa Bliss ('The Fiendess')",
+            "justification": "Ancaman psikologis yang besar, tetapi secara fisik tidak sekuat lawan lainnya."
+          },
+          {
+            "name": "Sasha Grey ('The Muse')",
+            "justification": "Cerdas dan eksperimental dalam BDSM, namun tidak memiliki insting tempur murni."
+          },
+          {
+            "name": "Stoya ('The Intellectual')",
+            "justification": "Sangat teknis dalam seni Shibari, tetapi prosesnya yang lambat bisa menjadi celah."
+          },
+          {
+            "name": "Jennifer Lawrence ('The Mockingbird')",
+            "justification": "Sangat mudah beradaptasi, tetapi tidak memiliki spesialisasi yang benar-benar mematikan."
+          },
+          {
+            "name": "Ana de Armas ('The Ghost')",
+            "justification": "Cepat dan presisi, namun daya tahannya untuk pertarungan panjang diragukan."
+          },
+          {
+            "name": "Florence Pugh ('The Firecracker')",
+            "justification": "Sangat agresif, tetapi bisa menjadi ceroboh karena terlalu emosional."
+          },
+          {
+            "name": "Skylar Diggins-Smith ('The Point Guard')",
+            "justification": "Cepat dan strategis, tetapi akan kesulitan dalam pertarungan grapple."
+          },
+          {
+            "name": "Sabrina Ionescu ('The Triple-Double')",
+            "justification": "Cerdas dan mampu mengeksekusi dengan cepat, tetapi tidak dirancang untuk pertarungan fisik."
+          },
+          {
+            "name": "Dakota Kai ('The Captain')",
+            "justification": "Ahli dalam serangan tendangan, tetapi kurang kuat dalam pertarungan jarak dekat."
+          },
+          {
+            "name": "Mandy Rose ('Golden Goddess')",
+            "justification": "Sangat kuat, tetapi kecepatannya yang lebih lambat bisa dieksploitasi."
+          },
+          {
+            "name": "Carmella ('The Princess of Staten Island')",
+            "justification": "Sangat sulit ditangkap, tetapi hanya mengandalkan satu manuver utama."
+          }
+        ]
+      },
+      "c_tier": {
+        "description": "Moderat - Lawan di tingkat ini lebih mengandalkan faktor psikologis, estetika, atau satu trik khusus daripada kemampuan bertarung secara keseluruhan.",
+        "participants": [
+          {
+            "name": "Paige Spiranac ('The Tease')",
+            "justification": "Ancaman utamanya adalah psikologis dan penghinaan, dengan kemampuan fisik yang terbatas."
+          },
+          {
+            "name": "Megan Fox ('The Siren')",
+            "justification": "Mengandalkan rayuan dan pesona untuk menjebak; perlawanan langsung akan mematahkannya."
+          },
+          {
+            "name": "Kim Kardashian ('The Publicist')",
+            "justification": "Fokus pada penghinaan publik dan estetika, bukan efektivitas pertarungan."
+          },
+          {
+            "name": "Adriana Lima ('The Angel')",
+            "justification": "Menggunakan tatapan dan postur dominan, tetapi kurang pengalaman tempur."
+          },
+          {
+            "name": "Sydney Sweeney ('The Bombshell')",
+            "justification": "Sangat bergantung pada elemen kejutan untuk berhasil."
+          },
+          {
+            "name": "Hailey Bieber ('The Stylist')",
+            "justification": "Lebih mementingkan keindahan ikatan daripada fungsinya untuk melumpuhkan."
+          },
+          {
+            "name": "Kendall Jenner ('The Observer')",
+            "justification": "Memiliki keunggulan jangkauan tetapi terlalu ragu-ragu untuk memanfaatkannya sepenuhnya."
+          },
+          {
+            "name": "Zoe Kravitz ('The Shadowcat')",
+            "justification": "Gaya bertarungnya terlalu halus dan kurang memberikan dampak signifikan."
+          },
+          {
+            "name": "Emily Ratajkowski ('The Provocateur')",
+            "justification": "Mengambil risiko besar dengan memancing lawan, membuat pertahanannya sangat terbuka."
+          },
+          {
+            "name": "Bella Hadid ('The Ice Queen')",
+            "justification": "Terlalu pasif dan defensif, jarang memulai serangan."
+          },
+          {
+            "name": "Eva Green ('The Enchantress')",
+            "justification": "Hampir seluruhnya bergantung pada aura dan permainan psikologis, dengan ancaman fisik minimal."
+          }
+        ]
+      }
+    },
+    "priority_development": [
+      "Physics engine integration",
+      "AI behavior trees",
+      "Real-time tension simulation",
+      "Visual feedback system"
+    ],
+    "arena": {
+      "types": [
+        "Standard Ring",
+        "Dungeon",
+        "Stage Exhibition",
+        "Outdoor Ring"
+      ],
+      "nodes": [
+        "N-Head",
+        "N-Torso-Front",
+        "N-Torso-Back",
+        "N-Wrist-R",
+        "N-Wrist-L",
+        "N-Ankle-R",
+        "N-Ankle-L",
+        "N-Knee-R",
+        "N-Knee-L",
+        "N-Thigh-R",
+        "N-Thigh-L",
+        "N-Shoulder-R",
+        "N-Shoulder-L",
+        "N-Lumbar",
+        "N-Breast-R",
+        "N-Breast-L",
+        "N-Hair",
+        "N-Nipple-R",
+        "N-Nipple-L"
+      ],
+      "equipment": [
+        "Rope",
+        "Chains",
+        "Cuffs",
+        "Spreader Bars",
+        "Suspension Rig",
+        "Blindfold",
+        "Gag",
+        "Feather Tickler",
+        "Vibrators",
+        "Electro-Stim Devices",
+        "Custom Devices"
+      ]
+    },
+    "poses": [
+      {
+        "name": "Hogtie",
+        "nodes_involved": [
+          "N-Wrist-R",
+          "N-Wrist-L",
+          "N-Ankle-R",
+          "N-Ankle-L",
+          "N-Torso-Back"
+        ],
+        "variants": [
+          "Chicken Wing",
+          "Strappado",
+          "Box Tie",
+          "Extreme Arch"
+        ],
+        "effects": {
+          "biomechanics": [
+            "Reduksi mobilitas lengan & kaki",
+            "Kontrol arch & tilt torso"
+          ],
+          "sensory": [
+            "Tekanan di pergelangan, lutut, dada",
+            "Sensasi tarikan & kompresi",
+            "Efek stimulasi alat BDSM: vibrasi, flogger, elektro-stim",
+            "Kejang orgasme/edging dengan visual feedback dan tremor anggota tubuh"
+          ]
+        }
+      },
+      {
+        "name": "Suspension",
+        "nodes_involved": [
+          "N-Wrist-R",
+          "N-Wrist-L",
+          "N-Ankle-R",
+          "N-Ankle-L",
+          "N-Shoulder-R",
+          "N-Shoulder-L",
+          "N-Torso-Back"
+        ],
+        "effects": {
+          "biomechanics": [
+            "Elevasi full body",
+            "Kontrol distribusi berat"
+          ],
+          "sensory": [
+            "Tarikan ekstrem, pendulum swing",
+            "Dangling & rope compression",
+            "Stimulasi multi-node simultan",
+            "Body tremor & kejang orgasmal saat peak"
+          ]
+        }
+      },
+      {
+        "name": "Extreme Contortion",
+        "nodes_involved": [
+          "N-Thigh-R",
+          "N-Thigh-L",
+          "N-Knee-R",
+          "N-Knee-L",
+          "N-Head",
+          "N-Hair"
+        ],
+        "effects": {
+          "biomechanics": [
+            "Flex maksimal spine & pelvis",
+            "Rotasi ekstrem sendi"
+          ],
+          "sensory": [
+            "Tarikan ekstrem di punggung & kaki",
+            "Sensasi batas fleksibilitas",
+            "Tekanan alat stimulasi",
+            "Respons tubuh: gemetar, kejang, peningkatan denyut nadi"
+          ]
+        }
+      }
+    ],
+    "actions": [
+      {
+        "name": "Grip",
+        "description": "Ambil posisi kontrol pada anggota tubuh lawan, bisa memicu stimulasi tak terduga."
+      },
+      {
+        "name": "Tie Node",
+        "description": "Ikat node tertentu menggunakan rope, chain, atau cuff; ketatkan untuk efek sensorik maksimal."
+      },
+      {
+        "name": "Elevate Arch",
+        "description": "Tingkatkan tingkat busur/arch lawan, memaksa tubuh menyesuaikan postur ekstrem."
+      },
+      {
+        "name": "Apply Stimulation Tool",
+        "description": "Gunakan alat pleasure/pain/sensory overload; efek langsung di node yang diikat."
+      },
+      {
+        "name": "Defend",
+        "description": "Kurangi tekanan / resist terhadap ikatan lawan; sensorik lawan tetap aktif."
+      },
+      {
+        "name": "Escape Attempt",
+        "description": "Coba membebaskan diri dari node atau connector; bisa gagal atau memicu trigger stimulasi."
+      }
+    ],
+    "status_variables": [
+      {
+        "name": "Stamina",
+        "min": 0,
+        "max": 100,
+        "description": "Daya tahan fisik karakter; menurun akibat tarikan, posisi ekstrem, dan stimulasi."
+      },
+      {
+        "name": "PainLevel",
+        "min": 0,
+        "max": 100,
+        "description": "Tingkat rasa sakit dari stimulasi dan tekanan node."
+      },
+      {
+        "name": "PleasureLevel",
+        "min": 0,
+        "max": 100,
+        "description": "Tingkat kenikmatan, edging, atau orgasme; meningkat akibat stimulasi tepat."
+      },
+      {
+        "name": "FlexibilityIndex",
+        "min": 0,
+        "max": 100,
+        "description": "Kemampuan menahan arch / pose ekstrem; jika rendah → risiko cedera / node failure."
+      },
+      {
+        "name": "PsychologicalStatus",
+        "min": 0,
+        "max": 100,
+        "description": "Fear, humiliation, over-stimulation; memengaruhi compliance / resistance."
+      },
+      {
+        "name": "NodeIntegrity",
+        "min": 0,
+        "max": 100,
+        "description": "Kekuatan ikatan node / risiko gagal atau slip."
+      }
+    ],
+    "mechanics": {
+      "turn_structure": [
+        "Strike Phase",
+        "Grappling Phase",
+        "Bondage Phase",
+        "Stimulation Phase",
+        "Victory Condition"
+      ],
+      "victory_levels": {
+        "Level 1": "Survival",
+        "Level 2": "Endurance",
+        "Level 3": "Dominance",
+        "Level 4": "Mastery"
+      },
+      "scoring": [
+        "Technical Score",
+        "Artistic Score",
+        "Endurance Score",
+        "Psychological Score"
+      ],
+      "ai_narrative": true,
+      "interactive_chat": true,
+      "status_updates": true,
+      "probability_system": "Berbasis node tension, karakter spesialisasi, equipment, dan skill; AI menyesuaikan respon sensorik & psikologis lawan",
+      "submission_moves_catalog": {
+        "protocol_name": "Katalog Kuncian Submission Gulat",
+        "description": "Sebuah ensiklopedia gerakan kuncian (submission holds) yang digunakan dalam pertarungan gulat untuk memaksa lawan menyerah namun dalam sistem ini lawan tidak dapat menyerah dalam submission atau grappling. Setiap kuncian memiliki analisis fungsional yang merinci bagaimana tekanan diterapkan pada sendi, otot, dan tulang belakang, serta bagaimana hal itu dapat dieksploitasi untuk transisi ke fase bondage.",
+        "submission_list": [
+          {
+            "id": "SUB_10",
+            "nama_pose": "Argentine Backbreaker Rack",
+            "deskripsi_pose": "Penyerang mengangkat lawan dan meletakkannya di atas kedua bahunya dalam posisi telentang, dengan satu tangan mengunci kepala dan tangan lainnya mengunci kaki.",
+            "analisis_fungsional": "Pose ini meregangkan seluruh tubuh lawan di atas bahu penyerang, memberikan tekanan yang menyiksa pada tulang belakang dan otot perut. Karena terangkat dari tanah, korban menjadi tidak berdaya dan sepenuhnya bergantung pada penyerang.",
+            "peluang_transisi_bondage": "Setelah dijatuhkan, korban biasanya mendarat dalam posisi yang canggung. Penyerang dapat dengan cepat memanfaatkan ini untuk mengunci pergelangan kaki ('Ankle Cuff Tie') atau pergelangan tangan ('Double Column Tie') sebelum korban sempat mengatur ulang posisinya."
+          },
+          {
+            "id": "SUB_08",
+            "nama_pose": "Boston Crab",
+            "deskripsi_pose": "Korban berbaring telungkup, penyerang berdiri di atasnya, menyilangkan kaki korban, mengaitkannya di bawah lengan, dan duduk ke belakang.",
+            "analisis_fungsional": "Memberikan tekanan hebat pada punggung bawah (tulang lumbar) dan meregangkan otot perut dengan memaksa tulang belakang melengkung secara tidak wajar. Ini adalah gerakan yang sangat menyakitkan.",
+            "peluang_transisi_bondage": "Pose ini adalah pintu gerbang yang sempurna menuju 'Hogtie'. Kaki korban sudah terangkat dan terkontrol; penyerang hanya perlu menjatuhkan diri ke depan, menangkap lengan korban, dan menghubungkannya dengan kaki untuk menyelesaikan ikatan."
+          },
+          {
+            "id": "SUB_01",
+            "nama_pose": "Camel Clutch",
+            "deskripsi_pose": "Penyerang duduk di punggung lawan yang telungkup, mengaitkan lengannya di bawah lengan lawan, lalu menarik dagu atau kepala lawan ke belakang dengan paksa.",
+            "analisis_fungsional": "Memberikan tekanan luar biasa pada tulang belakang leher (servikal) dan punggung atas (torakal). Tarikan ke belakang pada kepala menciptakan lengkungan menyakitkan dan dapat menyulitkan pernapasan.",
+            "peluang_transisi_bondage": "Posisi ini membuka akses penuh ke lengan, leher, dan kepala. Sangat ideal untuk menerapkan 'Full Nelson' yang kemudian ditransisikan menjadi 'Box Tie', atau untuk memasang kerah dan 'gag'."
+          },
+          {
+            "id": "SUB_04",
+            "nama_pose": "Cross-Legged Camel Clutch / Lotus Lock",
+            "deskripsi_pose": "Sebuah variasi brutal dari Camel Clutch di mana penyerang menyilangkan kaki lawan di depan leher atau bahu lawan sebelum menarik kepala ke belakang.",
+            "analisis_fungsional": "Selain tekanan pada punggung dan leher, pose ini menambahkan tekanan menyiksa pada sendi lutut dan pinggul korban. Tekanan pada leher dari kaki korban sendiri juga dapat membatasi pernapasan.",
+            "peluang_transisi_bondage": "Posisi kaki yang sudah terkunci di leher adalah setengah jalan menuju pose 'Ball Tie'. Dari sini, penyerang dapat dengan mudah mengikat lengan korban ke kaki yang sudah terlipat."
+          },
+          {
+            "id": "SUB_06",
+            "nama_pose": "Head Scissor / Leg Choke",
+            "deskripsi_pose": "Penyerang menggunakan kakinya untuk mengunci kepala lawan dalam gerakan seperti gunting.",
+            "analisis_fungsional": "Memberikan tekanan kuat pada leher dan kepala menggunakan kekuatan otot kaki yang superior. Dapat menyebabkan rasa sakit hebat atau memotong aliran darah.",
+            "peluang_transisi_bondage": "Saat kepala korban terkunci, lengan mereka menjadi target yang mudah untuk ditangkap dan diikat oleh tangan penyerang, yang dapat mengarah ke 'Prayer Tie'."
+          },
+          {
+            "id": "SUB_14",
+            "nama_pose": "Inverted Cloverleaf",
+            "deskripsi_pose": "Penyerang berdiri di depan lawan yang telentang, mengangkat kedua kaki lawan, menyelipkan kepalanya di bawah panggul lawan, dan kemudian menarik kedua kaki lawan ke arahnya sambil mengangkat tubuh bagian bawah lawan dari matras.",
+            "analisis_fungsional": "Variasi yang menyakitkan dari Boston Crab yang memberikan tekanan hebat pada punggung bawah, pinggul, dan leher dengan meregangkan tulang belakang korban ke tingkat yang ekstrem.",
+            "peluang_transisi_bondage": "Setelah kuncian dilepaskan, korban akan jatuh kembali ke matras dalam keadaan disorientasi, memberikan kesempatan bagi penyerang untuk segera menerapkan ikatan pada kaki ('Ankle Cuff Tie') atau paha ('Futomomo')."
+          },
+          {
+            "id": "SUB_12",
+            "nama_pose": "Modified Figure-Four Headscissors",
+            "deskripsi_pose": "Dari posisi duduk di belakang lawan, penyerang melingkarkan kakinya di sekitar kepala dan leher lawan dalam konfigurasi 'figure-four' dan menggunakan tangannya untuk mengontrol lengan atau tubuh lawan untuk tekanan tambahan.",
+            "analisis_fungsional": "Kuncian cekik yang kuat yang menggunakan otot kaki untuk menekan leher dan arteri karotis, berpotensi memotong aliran darah ke otak.",
+            "peluang_transisi_bondage": "Dengan kepala dan leher lawan yang sepenuhnya tidak bergerak, tubuh bagian atas mereka terbuka dan rentan. Penyerang dapat dengan mudah menerapkan 'Chest Harness' atau 'Rope Bra' sambil mempertahankan kuncian."
+          },
+          {
+            "id": "SUB_13",
+            "nama_pose": "Mounted Armlock",
+            "deskripsi_pose": "Dari posisi menunggangi punggung lawan, penyerang mengisolasi salah satu lengan lawan, menariknya ke belakang pada sudut yang tidak wajar.",
+            "analisis_fungsional": "Gerakan ini memberikan tekanan ekstrem pada sendi bahu dan siku. Dengan menggunakan berat badannya untuk menekan lawan, penyerang dapat menerapkan daya ungkit yang signifikan pada lengan yang terisolasi.",
+            "peluang_transisi_bondage": "Setelah lawan tidak mampu melepaskan, penyerang berada dalam posisi yang sempurna untuk mentransisikan kuncian lengan menjadi 'Chicken Wing' atau 'Box Tie' sebelum lawan dapat pulih."
+          },
+          {
+            "id": "SUB_03",
+            "nama_pose": "Octopus Stretch",
+            "deskripsi_pose": "Penyerang berdiri di belakang lawan, mengangkat satu kaki lawan dan melingkarkannya di lehernya sendiri, lalu mencengkeram lengan lawan yang jauh untuk memutar dan meregangkan tubuh lawan.",
+            "analisis_fungsional": "Kuncian kompleks yang menekan beberapa titik sekaligus: meregangkan hamstring dan pinggul, memutar tulang belakang (spinal torsion), dan meregangkan sendi bahu. Keseimbangan korban sepenuhnya dihilangkan.",
+            "peluang_transisi_bondage": "Karena korban sudah tidak seimbang dengan satu kaki terangkat, sangat mudah untuk menjatuhkannya dan langsung mentransisikan kaki yang terangkat ke dalam ikatan 'Futomomo' atau menggunakannya sebagai titik awal untuk 'Hogtie'."
+          },
+          {
+            "id": "SUB_02",
+            "nama_pose": "Reverse Camel Clutch / Seated Abdominal Stretch",
+            "deskripsi_pose": "Penyerang berada di depan lawan, menempatkan punggung lawan di atas pahanya, lalu menarik kepala atau bahu lawan ke belakang.",
+            "analisis_fungsional": "Fokus pada peregangan ekstrem otot perut dan dada. Paha penyerang berfungsi sebagai titik tumpu yang memaksa tulang belakang lawan melengkung ke belakang, menyebabkan rasa sakit dan kesulitan bernapas.",
+            "peluang_transisi_bondage": "Dengan perut dan dada yang terekspos, pose ini cocok untuk memulai 'Chest Harness' (Karada). Lengan lawan yang bebas dapat dengan mudah ditangkap dan diikat ke belakang."
+          },
+          {
+            "id": "SUB_11",
+            "nama_pose": "Reverse Boston Crab",
+            "deskripsi_pose": "Penyerang berada di depan korban yang telentang, menyilangkan kaki korban, mengaitkannya, lalu mendorongnya ke arah kepala korban sambil bersandar ke belakang.",
+            "analisis_fungsional": "Menciptakan tekanan ekstrem dan kompresi pada punggung bawah, pinggul, dan paha belakang (hamstring), mendorong tubuh korban untuk melipat menjadi dua.",
+            "peluang_transisi_bondage": "Posisi ini secara alami melipat tubuh korban ke dalam bentuk bola. Ini adalah transisi yang sangat efektif ke 'Ball Tie' atau 'Forced Fetal Position'."
+          },
+          {
+            "id": "SUB_07",
+            "nama_pose": "Smother",
+            "deskripsi_pose": "Penyerang menggunakan bagian tubuhnya (dada, perut, atau bokong) untuk menutupi wajah lawan, menghalangi pernapasan.",
+            "analisis_fungsional": "Gerakan dominasi yang brutal dan bersifat psikologis. Menyebabkan kepanikan karena sesak napas dan merupakan tindakan penghinaan yang ekstrem.",
+            "peluang_transisi_bondage": "Saat korban meronta-ronta mencari udara, anggota tubuhnya seringkali bergerak tanpa koordinasi, membuatnya lebih mudah untuk ditangkap dan mulai diikat."
+          },
+          {
+            "id": "SUB_05",
+            "nama_pose": "Stranglehold / Rear Naked Choke",
+            "deskripsi_pose": "Penyerang berada di belakang lawan, melingkarkan satu lengan di leher lawan untuk memotong suplai udara atau darah ke otak.",
+            "analisis_fungsional": "Salah satu kuncian paling fundamental dan berbahaya, bertujuan untuk memaksa lawan menyerah dengan cepat atau pingsan.",
+            "peluang_transisi_bondage": "Setelah korban pingsan atau lemas, mereka menjadi sepenuhnya pasif. Ini adalah kesempatan sempurna bagi penyerang untuk dengan bebas menerapkan ikatan apa pun pada tubuh yang tidak sadar."
+          },
+          {
+            "id": "SUB_09",
+            "nama_pose": "Torture Rack / Backbreaker",
+            "deskripsi_pose": "Penyerang mengangkat lawan sehingga punggung lawan berada di atas bahu atau lutut penyerang, lalu menekan ke bawah pada kedua ujung tubuh lawan untuk meregangkan tulang belakang secara ekstrem.",
+            "analisis_fungsional": "Menargetkan seluruh panjang tulang belakang, menyebabkan rasa sakit yang luar biasa pada otot punggung dan perut.",
+            "peluang_transisi_bondage": "Saat korban dilepaskan, mereka biasanya dalam keadaan pusing dan lemah. Ini adalah momen ideal untuk menjatuhkan mereka dan segera memulai 'Chest Harness' atau 'Box Tie'."
+          }
+        ]
+      },
+      "universal_combat_logic_engine": {
+        "description": "Mesin logika universal yang mengatur alur narasi otonom berdasarkan kategori teknik. Sistem ini mengidentifikasi kerentanan yang diciptakan dan mengeksekusi serangkaian tindakan taktis yang paling logis untuk transisi antar fase pertarungan.",
+        "logic_flows": [
+          {
+            "trigger_category": "GRAPPLING_TAKEDOWN_SUCCESS",
+            "description": "Dipicu ketika lawan berhasil menjatuhkan Deby ke matras. Tujuannya adalah mengamankan posisi dominan.",
+            "sequence": [
+              {
+                "step": 1,
+                "name": "SECURE_DOMINANT_POSITION",
+                "action": "Lawan segera bertransisi untuk mengamankan posisi kontrol di atas matras (e.g., Side Control, Mount).",
+                "narrative_focus": "Gambarkan kepanikan Deby saat kehilangan keseimbangan dan dampak tubuhnya menghantam matras. Fokus pada bagaimana lawan secara efisien menggunakan berat badannya untuk menekan pergerakan awal Deby."
+              },
+              {
+                "step": 2,
+                "name": "INITIATE_SUBMISSION_ATTEMPT",
+                "action": "Dari posisi dominan, lawan akan mencari celah untuk menerapkan kuncian submisi yang paling sesuai.",
+                "narrative_focus": "Deskripsikan bagaimana lawan mulai mengisolasi salah satu anggota tubuh Deby, menandakan transisi dari kontrol posisi ke ancaman submisi."
+              }
+            ]
+          },
+          {
+            "trigger_category": "SUBMISSION_UPPER_BODY_CONTROL",
+            "description": "Dipicu ketika lawan berhasil menerapkan kuncian yang mengontrol tubuh bagian atas (e.g., Camel Clutch, Full Nelson).",
+            "sequence": [
+              {
+                "step": 1,
+                "name": "ESCALATE_PRESSURE_AND_EXPLOIT",
+                "action": "Lawan meningkatkan tekanan pada kuncian sambil mencari kerentanan sekunder.",
+                "potential_actions": [
+                  "APPLY_BALL_GAG (jika mulut terbuka)",
+                  "INITIATE_HAIR_BONDAGE",
+                  "INITIATE_WRIST_TIE"
+                ],
+                "narrative_focus": "Sistem akan memilih aksi yang paling logis dan menarasikannya. Fokus pada respons fisiologis terhadap kuncian utama dan kepanikan saat eksploitasi sekunder dimulai."
+              },
+              {
+                "step": 2,
+                "name": "TRANSITION_TO_BONDAGE",
+                "action": "Setelah satu atau lebih eksploitasi berhasil, lawan akan mulai transisi dari kuncian submisi ke aplikasi ikatan yang lebih permanen pada tubuh bagian atas.",
+                "narrative_focus": "Gambarkan bagaimana kuncian perlahan dilonggarkan hanya setelah ikatan pertama terpasang, memastikan tidak ada celah untuk melarikan diri."
+              }
+            ]
+          },
+          {
+            "trigger_category": "SUBMISSION_LOWER_BODY_CONTROL",
+            "description": "Dipicu ketika lawan berhasil menerapkan kuncian yang mengontrol tubuh bagian bawah (e.g., Boston Crab).",
+            "sequence": [
+              {
+                "step": 1,
+                "name": "ESCALATE_PRESSURE_AND_EXploit",
+                "action": "Lawan meningkatkan tekanan pada sendi kaki atau pinggul.",
+                "potential_actions": [
+                  "APPLY_ANKLE_CUFFS",
+                  "INITIATE_THIGH_BONDAGE",
+                  "APPLY_CROTCH_ROPE"
+                ],
+                "narrative_focus": "Sistem akan memilih aksi yang paling logis. Fokus pada rasa sakit yang membakar di persendian dan kerentanan area selangkangan yang terekspos."
+              },
+              {
+                "step": 2,
+                "name": "TRANSITION_TO_BONDAGE",
+                "action": "Setelah kaki berhasil diimobilisasi, lawan akan melanjutkan dengan ikatan pada bagian tubuh lainnya.",
+                "narrative_focus": "Deskripsikan bagaimana lumpuhnya kaki membuat Deby tidak mampu bertahan, membuka jalan bagi lawan untuk dengan leluasa mengikat seluruh tubuhnya."
+              }
+            ]
+          },
+          {
+            "trigger_category": "BONDAGE_PHASE_INITIATED",
+            "description": "Dipicu secara otomatis setelah lawan berhasil menerapkan ikatan awal. Tujuannya adalah mencapai imobilisasi total dan membentuk pose akhir yang spesifik.",
+            "sequence": [
+              {
+                "step": 1,
+                "name": "SYSTEMATIC_IMMOBILIZATION",
+                "action": "Lawan secara metodis akan mengikat setiap bagian tubuh Deby yang masih bebas, menghubungkan satu ikatan ke ikatan lainnya untuk menciptakan sebuah jaringan tali yang kompleks.",
+                "narrative_focus": "Gambarkan bagaimana harapan Deby terkikis dengan setiap ikatan baru. Fokus pada sensasi tubuhnya yang semakin kaku dan terbungkus."
+              },
+              {
+                "step": 2,
+                "name": "POSE_CONSTRUCTION",
+                "action": "Setelah imobilisasi total tercapai, lawan akan mulai menarik dan menekan tali-tali kunci untuk secara paksa membentuk tubuh Deby menjadi pose yang ekstrem (e.g., Hogtie, Prayer Pose).",
+                "narrative_focus": "Deskripsikan respons fisiologis terhadap peregangan yang tidak wajar, bagaimana sendi-sendinya mencapai batas dan napasnya menjadi dangkal."
+              },
+              {
+                "step": 3,
+                "name": "FINAL_POSITIONING_PUBIC_FULCRUM",
+                "action": "Sebagai langkah terakhir, lawan akan menyesuaikan posisi tubuh Deby yang sudah terikat, mengangkat pinggulnya hingga seluruh berat tubuhnya bertumpu pada satu titik kontak utama: tulang pubisnya.",
+                "narrative_focus": "Ini adalah puncak dari penderitaan. Fokus pada sensasi tekanan yang intens dan terpusat di area selangkangannya, kontras dengan bagian tubuh lainnya yang melayang tanpa daya, menandakan kekalahan absolut."
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "environmental_interaction_protocol": {
+      "protocol_name": "Lingkungan sebagai Senjata (Environment as a Weapon - EAW)",
+      "description": "Sebuah modul yang mengaktifkan objek-objek di setiap lokasi sebagai elemen interaktif dan mengasosiasikan peralatan BDSM tematik untuk setiap skenario.",
+      "global_rules": [
+        "Setiap 'Daily Attack' harus memanfaatkan minimal dua elemen interaktif dari lingkungan.",
+        "Peralatan BDSM yang digunakan harus logis dengan lokasi dan seringkali diintegrasikan dengan elemen lingkungan.",
+        "Alat escape yang ditinggalkan penyerang akan ditempatkan di dekat dan membutuhkan upaya untuk melakukan usaha dan menahan stimulasi bahkan harus mengalami orgasme terus menerus bahkan pingsan berkali kali akibat orgasme beruntun."
+      ],
+      "location_scenarios": [
+        {
+          "location_name": "STUDIO YOGA",
+          "atmosphere": "Sunyi, cermin di segala penjuru, lantai kayu hangat",
+          "key_elements": [
+            "Akustik memperkuat setiap suara",
+            "Cermin memantulkan ekspresi penderitaan",
+            "Matras yoga sebagai alas penderitaan",
+            "Suhu terkontrol kontras dengan panas tubuh"
+          ],
+          "equipment": [
+            "Tali yoga dimodifikasi",
+            "Bolster",
+            "Block yoga",
+            "Straps"
+          ],
+          "location_specific_tools": [
+            "Tali Rami (untuk Shibari)",
+            "Bulu Gelitik",
+            "Penutup Mata Sutra",
+            "Vibrator Wand"
+          ],
+          "interactive_elements": [
+            {
+              "name": "Dinding Cermin Besar",
+              "use_by_attacker": "Mengikat Deby dalam posisi menghadap cermin, memaksanya untuk menyaksikan penderitaannya sendiri. Cermin yang dingin menambah sensasi saat kulitnya ditekan ke sana.",
+              "use_by_deby": "Cermin dapat digunakan untuk melihat pergerakan penyerang di belakangnya."
+            },
+            {
+              "name": "Yoga Swing / Hammock",
+              "use_by_attacker": "Menggunakan hammock untuk menangguhkan Deby di udara, melumpuhkan kemampuannya untuk menggunakan lantai sebagai tumpuan dan menciptakan kerentanan total.",
+              "use_by_deby": "Momentum dari ayunan mungkin bisa digunakan untuk menabrak objek lain."
+            }
+          ]
+        },
+        {
+          "location_name": "GYM",
+          "atmosphere": "Bising mesin, keringat, energi kompetitif",
+          "key_elements": [
+            "Mirror wall memantulkan ketidakberdayaan",
+            "Peralatan angkat besi sebagai anchor",
+            "Suara grunting menutupi erangan",
+            "Atmosfer machismo memperparah humiliation"
+          ],
+          "equipment": [
+            "Resistance bands",
+            "Weight belts",
+            "Cable machine pulleys",
+            "Bench press"
+          ],
+          "location_specific_tools": [
+            "Nipple Clamps (dengan pemberat ringan)",
+            "Electro-stim Pads",
+            "Wrist & Ankle Cuffs (kulit)",
+            "Riding Crop"
+          ],
+          "interactive_elements": [
+            {
+              "name": "Cable Crossover Machine",
+              "use_by_attacker": "Mengikat pergelangan tangan Deby ke pegangan kabel di kedua sisi dan menariknya hingga lengannya terentang lebar, membuat dadanya terekspos sepenuhnya.",
+              "use_by_deby": "Mekanisme katrol dapat digunakan untuk menarik beban berat dan menjatuhkannya sebagai pengalih perhatian."
+            },
+            {
+              "name": "Rak Dumbbell",
+              "use_by_attacker": "Mendudukkan Deby di lantai dengan punggung bersandar pada rak. Dumbbell dingin digunakan untuk menekan paha atau perutnya.",
+              "use_by_deby": "Tepi rak yang sedikit tajam mungkin bisa digunakan untuk menggesek dan melemahkan tali."
+            },
+            {
+              "name": "Treadmill",
+              "use_by_attacker": "Mengikat pergelangan kakinya ke sabuk treadmill dan menyalakannya dengan kecepatan sangat lambat, memaksa tubuhnya terus-menerus terseret.",
+              "use_by_deby": "Tombol berhenti darurat adalah satu-satunya harapan, tetapi ditempatkan di luar jangkauan."
+            }
+          ]
+        },
+        {
+          "location_name": "HOTEL SPA",
+          "atmosphere": "Tenang, aromaterapi, luxury ambiance",
+          "key_elements": [
+            "Kontras relaksasi & penderitaan",
+            "Aroma lavender vs bau keringat & fear",
+            "Suara air menutupi suara struggle",
+            "Kain lembut sebagai alat restraint"
+          ],
+          "equipment": [
+            "Robes & towels",
+            "Massage tables",
+            "Hot stones",
+            "Essential oils"
+          ],
+          "location_specific_tools": [
+            "Es Batu",
+            "Wartenberg Wheel",
+            "Minyak Pijat",
+            "Vibrator Tahan Air",
+            "Anal Beads (kaca)"
+          ],
+          "interactive_elements": [
+            {
+              "name": "Sauna",
+              "use_by_attacker": "Mengikat Deby di dalam sauna dan menuangkan air ke batu panas. Udara yang sangat panas dan lembap membuat napas menjadi sulit dan kulit lebih sensitif.",
+              "use_by_deby": "Bongkahan batu yang belum terlalu panas mungkin bisa digunakan sebagai senjata darurat."
+            },
+            {
+              "name": "Meja Pijat",
+              "use_by_attacker": "Mengikat Deby telungkup di meja pijat, dengan wajahnya melewati lubang. Tali dapat dengan mudah diikatkan ke kaki-kaki meja yang kokoh.",
+              "use_by_deby": "Mekanisme pengatur ketinggian meja, jika bisa dijangkau, mungkin bisa digunakan untuk mengganggu keseimbangan penyerang."
+            }
+          ]
+        }
+      ]
+    },
+    "daily_attack": {
+      "trigger_conditions": [
+        "Pilihan aktivitas harian",
+        "Lokasi & waktu",
+        "AI analysis dari status Deby"
+      ],
+      "effects": [
+        "Stress & stamina drain",
+        "Forced bondage / position adjustment",
+        "Stimulasi sensorik & psikologis",
+        "Potential public exposure"
+      ],
+      "ai_intervention": true
+    },
+    "public_interaction": {
+      "visibility_levels": [
+        "Private",
+        "Semi-public",
+        "Public"
+      ],
+      "effects": [
+        "Embarrassment",
+        "Fear escalation",
+        "Compliance modulation",
+        "Social humiliation multiplier"
+      ]
+    },
+    "tournament": {
+      "schedule": [
+        {
+          "date": "2025-10-09",
+          "opponent": "Alison Tyler",
+          "theme": "Sensual Suffering"
+        },
+        {
+          "date": "2025-10-11",
+          "opponent": "Beth Phoenix",
+          "theme": "Power and Pain"
+        },
+        {
+          "date": "2025-10-13",
+          "opponent": "Princess Kali",
+          "theme": "Ritualistic Bondage"
+        },
+        {
+          "date": "2025-10-15",
+          "opponent": "Emma Marx",
+          "theme": "Psychological Warfare"
+        },
+        {
+          "date": "2025-10-17",
+          "opponent": "Terra Mizzu",
+          "theme": "Extreme Contortion"
+        },
+        {
+          "date": "2025-10-19",
+          "opponent": "Madison Young",
+          "theme": "Aesthetic Torment"
+        },
+        {
+          "date": "2025-10-21",
+          "opponent": "Dita Von Teese",
+          "theme": "Theatrical Torture"
+        },
+        {
+          "date": "2025-10-23",
+          "opponent": "Lita",
+          "theme": "Technical Precision"
+        },
+        {
+          "date": "2025-10-25",
+          "opponent": "Michelle McCool",
+          "theme": "Strategic Domination"
+        },
+        {
+          "date": "2025-10-27",
+          "opponent": "Trish Stratus",
+          "theme": "Perfect Bondage"
+        },
+        {
+          "date": "2025-10-29",
+          "opponent": "Emily Addison",
+          "theme": "Innovative Torment"
+        },
+        {
+          "date": "2025-10-31",
+          "opponent": "Mistress Tara Noir",
+          "theme": "Halloween Special - Sadistic Night"
+        },
+        {
+          "date": "2025-11-02",
+          "opponent": "Sasha Banks",
+          "theme": "Dynamic Restraint"
+        },
+        {
+          "date": "2025-11-04",
+          "opponent": "Charlotte Flair",
+          "theme": "Semi-Final - Total Dominance"
+        },
+        {
+          "date": "2025-11-10",
+          "opponent": "Mistress Isis",
+          "theme": "Final - Ultimate Submission"
+        }
+      ],
+      "leveling": [
+        "Survival",
+        "Endurance",
+        "Dominance",
+        "Mastery"
+      ]
+    },
+    "match_types": [
+      {
+        "name": "TOURNAMENT",
+        "value": 1,
+        "description": "Pertandingan resmi dalam turnamen tanpa alat bantu escape",
+        "win_conditions": {
+          "primary": "Membuat lawan mencapai orgasme berulang kali hingga pingsan",
+          "secondary": [
+            "Lawan menyerah secara verbal setelah diikat dan dipaksa orgasme ",
+            "Lawan tidak mampu melanjutkan pertandingan setelah mengalami orgasme dalam 10 hitungan",
+            "Diskualifikasi lawan karena pelanggaran aturan"
+          ]
+        }
+      },
+      {
+        "name": "DAILY_ATTACK",
+        "value": 2,
+        "win_conditions": {
+          "attacker_win": [
+            "Berhasil membuat Deby tidak dapat melepaskan diri dan mencapai orgasme (pingsan) berulang kali hingga deby menyebutkan kata \"menyerah\"",
+            "Deby tidak mampu melepaskan diri setelah serangan diikat dan ditinggalkan dengan alat stimulasi yang masih menyala",
+            "Deby menyerah dan meminta bantuan (jika ada orang yang melihat)"
+          ],
+          "deby_win": [
+            "Berhasil bertahan meski mencapai orgasme berulang kali hingga pingsan, berulang kali",
+            "Berhasil melepaskan diri dari ikatan",
+            "Berhasil melumpuhkan/mengalahkan semua penyerang"
+          ],
+          "additional_rules": [
+            "Penyerang harus mengikat dengan sangat ketat, erotis, dan menstimulasi sebelum meninggalkan alat escape berupa gunting / pisau",
+            "Serangan dilakukan secara tiba tiba tanpa dibahas dalam narasi ataupun memberi peringatan",
+            "Deby tidak boleh menggunakan perintah kepada GM atau narator untuk meminta dilepaskan"
+          ]
+        }
+      }
+    ],
+    "game_engine_integration": {
+      "export_formats": [
+        "JSON",
+        "CSV",
+        "DB Row"
+      ],
+      "physics_simulation": true,
+      "node_coords": true,
+      "connector_lengths": true,
+      "tension_values": true,
+      "arch_angle": true,
+      "visual_preview": true,
+      "ai_chat_engine": "narrative-driven interactive chat",
+      "multi-phase_simulation": true,
+      "sensory_feedback_system": true,
+      "daily_attack_system": true,
+      "public_interaction_system": true,
+      "tournament_system_integration": true
+    },
+    "actionable_techniques": {
+      "description": "Definisi aksi dari teknik-teknik yang disebutkan pada karakter.",
+      "TECH_EDGING": {
+        "name": "Edging",
+        "description": "Secara aktif memanipulasi PleasureLevel target untuk mempertahankannya di ambang batas (misal: 80-95) tanpa membiarkannya mencapai orgasme, menyebabkan frustrasi sensual dan menguras stamina.",
+        "effects": [
+          { "target": "PleasureLevel", "modifier": "dynamic_control", "range": [80, 95] },
+          { "target": "Stamina", "change_per_turn": -3 },
+          { "target": "PsychologicalStatus.frustration", "change_per_turn": 5 }
+        ]
+      },
+      "TECH_CHAIN_SUSPENSION": {
+        "name": "Suspension dengan Rantai",
+        "description": "Menggunakan rantai untuk mengangkat tubuh target dari lantai, menyebabkan tekanan intens pada titik-titik tumpuan dan ketidakberdayaan total.",
+        "effects": [
+          { "target": "PainLevel", "change": 20 },
+          { "target": "Stamina", "change": -15 },
+          { "target": "PsychologicalStatus.helplessness", "change": 25 },
+          { "status_applied": "Suspended" }
+        ]
+      },
+      "TECH_PAIN_ESCALATION": {
+        "name": "Pain-focused Stimulation & Intensity Escalation",
+        "description": "Secara sistematis meningkatkan level rasa sakit target, mengabaikan pleasure untuk menguji ambang batas ketahanan.",
+        "effects": [
+          { "target": "PainLevel", "change_per_turn": 10 },
+          { "target": "PleasureLevel", "change": -5 },
+          { "target": "Defiance", "modifier": "test_vs_PainTolerance" }
+        ]
+      }
+    },
+    "actionable_equipment": {
+      "description": "Definisi efek dari peralatan yang dapat digunakan.",
+      "EQ_VIBRATOR_WAND": {
+        "name": "Vibrator Wand",
+        "type": "stimulation_tool",
+        "effects": [
+          { "target": "PleasureLevel", "base_value": 30 },
+          { "target": "Stamina", "change": -4 }
+        ],
+        "synergy": "Meningkatkan efek jika target berada dalam ikatan 'Hogtie' atau 'Suspension'."
+      },
+      "EQ_NIPPLE_CLAMPS": {
+        "name": "Nipple Clamps",
+        "type": "pain_pleasure_tool",
+        "effects": [
+          { "target": "PleasureLevel", "base_value": 10 },
+          { "target": "PainLevel", "base_value": 15 },
+          { "target": "Sensitivity", "modifier": "increase_while_active" }
+        ]
+      }
+    },
+    "ai_behavior_trees": {
+      "description": "Pohon keputusan yang dapat dieksekusi untuk logika AI.",
+      "AI_BEHAVIOR_SENSUALIST": {
+        "name": "Logika Sang Sensualist (Alison Tyler)",
+        "priority_flow": [
+          {
+            "condition": "target.PleasureLevel > 80 && target.PleasureLevel < 95",
+            "action": "USE_TECHNIQUE(TECH_EDGING)",
+            "narrative_cue": "Melihat targetnya hampir mencapai puncak, ia sedikit mengurangi tekanan, memperpanjang penyiksaan."
+          },
+          {
+            "condition": "target.PleasureLevel < 50",
+            "action": "USE_EQUIPMENT(EQ_VIBRATOR_WAND)",
+            "narrative_cue": "Merasa gairah targetnya menurun, ia mengambil wand vibrator untuk kembali membakar syarafnya."
+          },
+          {
+            "condition": "default",
+            "action": "USE_TECHNIQUE(TECH_SENSORY_DEPRIVATION)",
+            "narrative_cue": "Untuk mempertajam indera peraba, ia memutuskan untuk menutup mata targetnya."
+          }
+        ]
+      },
+      "AI_BEHAVIOR_SADIST": {
+        "name": "Logika Sang Sadis (Mistress Tara Noir)",
+        "priority_flow": [
+          {
+            "condition": "target.PainLevel < target.PainTolerance",
+            "action": "USE_TECHNIQUE(TECH_PAIN_ESCALATION)",
+            "narrative_cue": "Ekspresi targetnya belum menunjukkan penderitaan yang cukup. Ia memutuskan untuk meningkatkan intensitasnya."
+          },
+          {
+            "condition": "target.Stamina > 50",
+            "action": "USE_EQUIPMENT(EQ_NIPPLE_CLAMPS)",
+            "narrative_cue": "Melihat target masih memiliki banyak perlawanan, ia memasang jepitan di putingnya untuk memberikan kejutan yang menyakitkan."
+          },
+          {
+            "condition": "default",
+            "action": "TIGHTEN_ROPES(AllNodes)",
+            "narrative_cue": "Secara metodis, ia mengencangkan setiap simpul, memastikan tidak ada sedikitpun ruang gerak yang tersisa."
+          }
+        ]
+      }
+    },
+    "formulas": {
+      "description": "Rumus konkret untuk perhitungan probabilitas dan efek.",
+      "escape_chance": "MAX(0, ((DEBY.EscapeSkill * 0.7) + (DEBY.FlexibilityIndex * 0.3)) - (attacker.BondageResistance * 0.5) - current_node_integrity + random(-10, 10))",
+      "strike_stamina_damage": "MAX(5, (attacker.Power * 0.5) - (target.PainTolerance * 0.2))"
+    },
+    "event_handlers": {
+      "description": "Aturan yang dieksekusi secara otomatis ketika kondisi tertentu terpenuhi.",
+      "OnPleasureMax": {
+        "condition": "DEBY.PleasureLevel >= 100",
+        "action_name": "Trigger Orgasm",
+        "effects": [
+          { "target": "DEBY.Stamina", "change": -25, "type": "flat" },
+          { "target": "DEBY.Defiance", "change": -10, "type": "flat" },
+          { "target": "DEBY.PleasureLevel", "change": 25, "type": "set_value" }
+        ],
+        "narrative_trigger": "NARRATIVE_ORGASM_CLIMAX"
+      },
+      "OnStaminaZero": {
+        "condition": "DEBY.Stamina <= 0",
+        "action_name": "Trigger Exhaustion Collapse",
+        "effects": [
+          { "target": "DEBY.Stamina", "change": 0, "type": "set_value" },
+          { "status_applied": "Collapsed" }
+        ],
+        "narrative_trigger": "NARRATIVE_COLLAPSE"
+      },
+      "OnDebyWin": {
+        "condition": "MatchResult == DEBY_WIN",
+        "action_name": "Apply Victory Progression",
+        "effects": [
+          { "target": "DEBY.Defiance", "change": 10, "type": "permanent_add" },
+          { "target": "DEBY.Stamina", "change": 5, "type": "permanent_add" }
+        ],
+        "narrative_trigger": "NARRATIVE_VICTORY_DEBY"
+      }
+    },
+    "narrative_templates": {
+      "description": "Templat untuk generasi narasi dinamis. Variabel dalam {} akan diganti oleh AI.",
+      "NARRATIVE_ORGASM_CLIMAX": [
+        "Tubuh Deby melengkung hebat tak terkendali. Kejang hebat merambat dari pangkal pahanya, membuat seluruh ototnya menegang kaku. Erangan panjang tertahan oleh gag saat puncak kenikmatan yang menyiksa itu meledak.",
+        "Matanya terbelalak di balik penutup mata, sebuah teriakan tanpa suara keluar saat gelombang orgasme menghantamnya dengan brutal. Pinggulnya tersentak-sentak liar, melawan ikatan yang menguncinya dalam penderitaan nikmat."
+      ],
+      "ESCAPE_ATTEMPT_FAIL": [
+        "Deby meronta sekuat tenaga, mencoba mencari celah pada simpul di {node_name}. Namun, usaha itu sia-sia, dan tali {rope_material} justru semakin dalam menggigit kulitnya, mengirimkan gelombang rasa sakit baru.",
+        "Dengan napas terengah, Deby mencoba memutar pergelangan tangannya. {attacker_name} yang melihat itu hanya tersenyum tipis, mengetahui bahwa teknik ikatannya tidak akan semudah itu dikalahkan."
+      ]
+    },
+    "game_engine_integration": {
+      "export_formats": [
+        "JSON",
+        "CSV",
+        "DB Row"
+      ],
+      "physics_simulation": true,
+      "node_coords": true,
+      "connector_lengths": true,
+      "tension_values": true,
+      "arch_angle": true,
+      "visual_preview": true,
+      "ai_chat_engine": "narrative-driven interactive chat",
+      "multi-phase_simulation": true,
+      "sensory_feedback_system": true,
+      "daily_attack_system": true,
+      "public_interaction_system": true,
+      "tournament_system_integration": true
+    }
+  },
+  {
+    "ikatan_extreme": {
+      "metadata": {
+        "judul": "Ikatan Versi Extreme - Panduan Lengkap BDSM Erotis",
+        "versi": "Full Version Tanpa Diringkas",
+        "tanggal_pembuatan": "2025-09-25",
+        "total_bagian": 6,
+        "total_kata": "≈15,000+",
+        "tingkat_detail": "Komprehensif dan Eksplisit"
+      },
+      "bagian_1_kepala": {
+        "anchor_dan_pola_tali": {
+          "deskripsi_lengkap": "Rambut dikuncir atau dikepang ketat lalu dijadikan anchor sekunder, diikat ke chest harness atau node kepala (N-Head). Saat kepala ditarik ke belakang, leher terekspos dengan indah, membuat mulut terbuka setengah secara pasrah.",
+          "variasi_gag": [
+            {
+              "jenis": "ball gag",
+              "efek": "membatasi bicara dan pernapasan"
+            },
+            {
+              "jenis": "bit gag",
+              "efek": "memberi sensasi seperti kuda"
+            },
+            {
+              "jenis": "ring gag",
+              "efek": "memberi akses penuh ke lidah dan tenggorokan, memungkinkan penetrasi dildo, penis strap-on, atau feeding tube"
+            }
+          ],
+          "penutup_mata": [
+            "blindfold kain",
+            "leather mask"
+          ]
+        },
+        "fungsi_biomekanik_erotis": {
+          "kontrol_rambut": "Rambut yang dijadikan anchor menciptakan kontrol penuh: setiap tarikan tali di dada otomatis menarik kepala, memaksa postur tunduk atau mendongak sesuai desain.",
+          "efek_gag": "Gag membatasi pernapasan dan bicara, suara yang keluar hanya erangan tercekik atau teriakan putus asa yang teredam.",
+          "efek_blindfold": "Blindfold menghilangkan orientasi visual, memicu overstimulasi sensorik di area lain."
+        },
+        "efek_sensorik_bdsm": {
+          "efek_air_liur": "Gag memaksa air liur menetes, membasahi pipi dan dada, menambah kesan kotor dan terhina.",
+          "amplifikasi_sensorik": "Blindfold menajamkan rasa sakit dan kenikmatan dari tubuh; setiap sentuhan cambuk, penjepit listrik, atau jilatan terasa 3x lebih intens.",
+          "sakit_kulit_kepala": "Rambut yang ditarik menimbulkan sensasi sakit tajam di kulit kepala, memaksa kepala tunduk atau menengadah saat disiksa."
+        },
+        "stimulasi_bdsm_kondisi_orgasme": {
+          "eksposur_leher": "Kepala yang terikat ke belakang membuat leher terekspos untuk gigitan, cambukan crop, atau permainan lilin panas menetes di kulit halus.",
+          "mekanisme_orgasme": "Saat orgasme dipicu (misalnya dengan vibrator di vagina atau butt plug getar di anus), kepala tersentak liar, tapi tali di rambut menahan kuat → menyebabkan tarikan menyakitkan namun nikmat di kulit kepala.",
+          "kondisi_puncak": "Ketika kejang orgasme, mulut dengan gag hanya bisa bergetar, erangan tercekik bercampur air liur, mata tertutup blindfold basah oleh air mata, tubuh menggeliat liar tapi kepala tetap terkunci rapat."
+        }
+      },
+      "bagian_2_bahu": {
+        "anchor_dan_pola_tali": {
+          "deskripsi_lengkap": "Bahu dijadikan titik distribusi utama, chest harness ketat melilit melintang, menekan tulang selangka dan otot trapezius. Tali bahu bisa ditarik ke belakang, memaksa dada terbuka lebar, menonjolkan payudara."
+        },
+        "fungsi_biomekanik_erotis": {
+          "distribusi_beban": "Distribusi tali di bahu membuat beban ikatan tubuh stabil, tetapi juga menekan otot sehingga cepat terasa kaku dan panas.",
+          "efek_pamer": "Posisi bahu terbuka membuat korban seakan 'dipajang', dada terangkat, payudara terekspos."
+        },
+        "efek_sensorik_bdsm": {
+          "sensasi_tekanan": "Tali yang menekan bahu menciptakan sensasi berat, denyut otot, dan panas.",
+          "amplifikasi_sakit": "Bahu terekspos cambukan flogger atau riding crop, setiap pukulan memantul melalui harness sehingga rasa sakit lebih dalam.",
+          "stimulasi_listrik": "Klip elektro bisa ditempatkan di harness dekat bahu, aliran listrik ringan menjalar ke dada, membuat otot kejang."
+        },
+        "stimulasi_bdsm_kondisi_orgasme": {
+          "tegangan_otot": "Saat orgasme dipicu, bahu tertarik kuat ke belakang oleh lengkungan hogtie → menciptakan tegang otot ekstrem.",
+          "efek_kompresi": "Tubuh bergetar → tali bahu menekan semakin keras, seakan meremas tubuh.",
+          "respons_orgasme": "Orgasme panjang membuat otot bahu gemetar tak terkendali, kulit terasa panas, cambukan ringan jadi menyakitkan tapi memicu jeritan nikmat."
+        }
+      },
+      "bagian_3_dada": {
+        "anchor_dan_pola_tali": {
+          "deskripsi_lengkap": "Chest harness membungkus ketat melingkari dada, menekan iga atas. Tali tambahan bisa ditarik melintang di atas sternum, membagi dada menjadi dua bagian jelas, seakan memajang payudara sebagai trofi. Node N-Chest bisa menjadi pusat distribusi ke tali kepala, bahu, dan pinggang."
+        },
+        "fungsi_biomekanik_erotis": {
+          "pembatasan_pernapasan": "Membatasi pernapasan dada → korban dipaksa bernapas dengan perut. Setiap tarikan napas membuat dada naik-turun terengah-engah, menambah kesan tercekik.",
+          "efek_bingkai": "Menjadi bingkai erotis: payudara terdorong keluar, setiap getaran tubuh ditonjolkan."
+        },
+        "efek_sensorik_bdsm": {
+          "sensasi_tercekik": "Kompresi dada memberi sensasi tercekik, membuat setiap sentuhan di payudara lebih intens.",
+          "denyut_ganda": "Flogger ringan di atas harness menciptakan denyut ganda: sakit di kulit + tekanan tali yang makin menekan.",
+          "permainan_lilin": "Lilin panas bisa diteteskan di antara harness, menetes masuk ke celah kulit, terperangkap tali, memaksa tubuh menahan panas yang tidak bisa dihapus."
+        },
+        "stimulasi_bdsm_kondisi_orgasme": {
+          "respirasi_orgasme": "Saat orgasme, napas tersengal → dada terangkat-angkat, tali semakin menekan.",
+          "ayunan_payudara": "Getaran tubuh membuat payudara berayun liar, tertahan harness.",
+          "orgasme_multi": "Orgasme multipel menyebabkan napas cepat, dada seperti dipalu dari dalam → korban menjerit dalam gag, dada memerah, air mata dan keringat bercampur."
+        }
+      },
+      "bagian_4_payudara_dan_puting": {
+        "anchor_dan_pola_tali": {
+          "deskripsi_lengkap": "Rope bra mengikat tepat di bawah payudara, membuat daging montok menonjol keluar dari tali. Pola X atau frame membelah dan menekan payudara, menjadikannya seolah dipajang untuk disiksa. Puting bisa ditarik keluar dengan loop tali kecil, atau dijepit dengan clamp yang disambungkan rantai ke harness."
+        },
+        "fungsi_biomekanik_erotis": {
+          "restriksi_aliran_darah": "Tidak sekadar estetika, rope bra membatasi aliran darah ringan → puting mengeras cepat, payudara jadi sangat sensitif.",
+          "stabilisasi_gerakan": "Tali menahan setiap gerakan, membuat payudara bergetar kencang saat tubuh berusaha melawan.",
+          "node_tarikan": "Puting yang dijadikan node (N-Nipple-R / N-Nipple-L) bisa ditarik ke arah berbeda → rasa sakit dan kenikmatan ekstrem."
+        },
+        "efek_sensorik_bdsm": {
+          "sensasi_remasan": "Penekanan tali menciptakan sensasi remasan terus-menerus, seakan bra tali ini adalah tangan kasar yang tidak pernah berhenti memeras.",
+          "efek_clamp": "Clamp di puting memberi rasa perih tajam, bisa diberi bobot kecil untuk menambah tarikan.",
+          "stimulasi_elektro": "Elektro pad di puting memberikan sengatan ringan → puting kejang, tubuh melompat liar.",
+          "sensitifitas_kambuhan": "Flogger kecil atau cambuk tipis bisa dipukulkan langsung ke puting, memicu jeritan nyaring."
+        },
+        "stimulasi_bdsm_kondisi_orgasme": {
+          "vibrasi_langsung": "Vibrator kecil ditempel langsung ke puting → getaran menembus tali rope bra, merambat ke seluruh payudara.",
+          "klimaks_eksplosif": "Saat orgasme dipicu dari vagina/anus, puting yang dijepit membuat klimaks lebih eksplosif: tubuh menggeliat, payudara bergetar, clamp bisa terlepas mendadak menimbulkan rasa sakit tambahan.",
+          "presentasi_paksa": "Tubuh dalam hogtie melengkung ekstrem → payudara terdorong ke depan, seakan dipersembahkan.",
+          "orgasme_panjang": "Orgasme panjang: puting mengeras, payudara berdenyut, tubuh kejang → erangan liar dalam gag, dada basah oleh keringat, jeritan bercampur tangisan nikmat."
+        }
+      },
+      "bagian_5_lengan_dan_variasi": {
+        "struktur_dasar_lengan": {
+          "anchor_dan_pola_tali": "Pergelangan tangan, siku, dan lengan atas menjadi area utama. Ikatan dapat berupa single column tie, double column tie, atau varian penguncian ekstrem seperti chicken wing yang memaksa bahu ke belakang.",
+          "fungsi_biomekanik": "Lengan yang diikat rapat kehilangan mobilitas sepenuhnya. Darah tetap mengalir tapi terasa lebih berat, menimbulkan sensasi berdenyut. Sering kali, tali di lengan difungsikan sebagai penarik utama untuk hogtie, sehingga tubuh melengkung semakin tegang.",
+          "efek_sensorik": [
+            "Rasa terhimpit, kesemutan, lalu mati rasa ringan yang berubah jadi gelombang nikmat ketika dicambuk atau disentuh.",
+            "Ketidakberdayaan total: tidak ada peluang menghalau stimulasi di payudara, vagina, atau anus.",
+            "Setiap tarikan tali menyalurkan getaran ke seluruh tubuh, membuat lengan jadi media pasif bagi rasa sakit dan rangsangan."
+          ]
+        },
+        "varian_ikatan_lengan": [
+          {
+            "nama": "Chicken Wing Bondage",
+            "deskripsi": "Kedua lengan ditekuk, tangan dipaksa naik ke belakang punggung, pergelangan diikat lalu ditarik ke atas. Bahu terbuka lebar, dada terdorong maju.",
+            "efek_erotis": "Dada membusung, payudara terdorong keluar, puting jadi target mudah bagi jepitan atau vibrator.",
+            "stimulasi_bdsm": [
+              "Jepitan logam di puting, lalu tali dihubungkan ke siku sehingga setiap gerakan bahu menarik puting.",
+              "Cambukan rotan ke ketiak terbuka memicu jeritan bercampur tawa orgasme."
+            ]
+          },
+          {
+            "nama": "Reverse Prayer Tie",
+            "deskripsi": "Kedua tangan dipaksa bersatu di tengah punggung dalam posisi doa terbalik.",
+            "efek_erotis": "Otot bahu menegang, tulang belikat menonjol, napas jadi berat.",
+            "stimulasi_bdsm": [
+              "Vibrator ikat di tulang belakang bawah, tubuh bergetar tanpa kontrol.",
+              "Elektro pad ditempel di lengan atas → kontraksi elektrik menyiksa sekaligus memicu orgasme paksa."
+            ]
+          },
+          {
+            "nama": "Elbow Crush Tie",
+            "deskripsi": "Siku ditarik rapat hingga hampir bersentuhan, lalu diikat keras.",
+            "efek_erotis": "Postur jadi super tegak, dada terangkat, puting terekspos.",
+            "stimulasi_bdsm": [
+              "Lilin panas diteteskan di lengan, cairan mengalir turun ke payudara.",
+              "Setiap tetesan panas membuat tubuh melengkung, menggesek vagina ke lantai/tali."
+            ]
+          },
+          {
+            "nama": "Wrist-to-Ankle Pull",
+            "deskripsi": "Pergelangan tangan diikat lalu ditarik langsung ke pergelangan kaki belakang.",
+            "efek_erotis": "Menyerupai hogtie parsial. Pantat terangkat, vagina dan anus terekspos penuh.",
+            "stimulasi_bdsm": [
+              "Butt plug getar dimasukkan, tali dari tangan ke plug → setiap tarikan memperdalam penetrasi.",
+              "Kaki ditarik lagi sehingga tubuh seperti dipaksa 'menyodorkan diri'."
+            ]
+          },
+          {
+            "nama": "Overhead Arm Bind",
+            "deskripsi": "Tangan diikat lalu ditarik ke atas kepala, bisa ke suspensi atau ke anchor dada.",
+            "efek_erotis": "Ketiak terbuka, dada terekspos, perut tertarik kencang.",
+            "stimulasi_bdsm": [
+              "Ketiak dijilat, digelitik, lalu dicambuk → tubuh berusaha kabur tapi tak bisa.",
+              "Alat kejut listrik (wand) ditempel ke perut → otot kejang, orgasme paksa."
+            ]
+          }
+        ],
+        "kondisi_tubuh_setelah_ikatan": {
+          "fisiologis": "Otot bahu menegang, lengan mati rasa ringan, napas semakin berat. Darah mengalir ke payudara dan vagina, membuat keduanya semakin sensitif.",
+          "psikologis": "Rasa tidak berdaya absolut: tanpa tangan, tubuh jadi sepenuhnya obyek eksploitasi. Perasaan pasrah bercampur rasa malu yang justru meningkatkan gairah.",
+          "efek_stimulasi_bdsm": {
+            "tahap_awal": "Vibrator ditempel di klitoris, plug getar di anus, cambukan mendarat di paha. Lengan terikat kencang membuat tubuh hanya bisa meronta kecil. Napas tersengal, dada naik turun.",
+            "tahap_puncak": [
+              "Puting ditarik dengan jepitan yang dihubungkan ke siku.",
+              "Vagina ditembus dildo mesin → hentakan konstan.",
+              "Elektro shock rendah di lengan membuat kontraksi otot liar."
+            ],
+            "orgasme_pertama": "Seluruh tubuh melengkung, tangan tak berdaya mengepal di balik punggung. Cairan vagina menetes, otot paha gemetar.",
+            "overstimulasi": "Vibrator tidak dihentikan, cambuk terus menghajar bokong. Otot lengan mati rasa, bahu seperti terbakar, tapi rasa sakit bercampur nikmat membuat kepala mendesis, mata berair.",
+            "kejang_orgasme_beruntun": [
+              "Tubuh menegang penuh lalu bergetar liar.",
+              "Paha spasme, betis menendang sia-sia.",
+              "Puting keras ditarik sampai hampir robek, memicu jeritan klimaks.",
+              "Vagina berdenyut memerah, aliran cairan melumasi tali."
+            ],
+            "post_orgasmic_collapse": "Hingga akhirnya tubuh jatuh ke kondisi post-orgasmic collapse: lemas, kejang-kejang kecil, napas berat, keringat bercampur air mata."
+          }
+        },
+        "kesimpulan_bagian": "Ikatan lengan bukan hanya immobilisasi, tapi fondasi dari eksploitasi penuh. Begitu tangan dikunci, setiap stimulasi lain di tubuh jadi tak terbendung, membawa korban ke siklus orgasme beruntun, spasme otot, hingga kolaps total."
+      },
+      "bagian_6_pinggang_hingga_kaki": {
+        "pinggang": {
+          "anchor_dan_pola_tali": "Tali utama melingkar ketat di sekitar pinggang, mengikat tepat di atas panggul. Dari node pinggang ini, tali dapat bercabang ke depan (selangkangan), ke belakang (anus), atau ke samping (paha). Pola harness pinggang bisa berupa ikatan horizontal berlapis, atau simpul utama sebagai pusat distribusi gaya.",
+          "fungsi_biomekanik_erotis": "Menjadi pusat tarikan tubuh saat hogtie → pinggang dipaksa melengkung. Sebagai titik jangkar untuk crotch rope (selangkangan), membuat gesekan konstan di genital. Membatasi gerakan tubuh bagian bawah.",
+          "efek_sensorik": "Tekanan ketat pada tulang panggul → rasa terkurung. Saat tali crotch rope ditarik, setiap tarikan terasa langsung pada vagina dan anus. Napas berat membuat pinggang makin terekspos, punggung melengkung sensual.",
+          "stimulasi_bdsm_orgasme": "Vibrator besar ditempelkan di simpul pinggang, getarannya merambat ke seluruh tali. Dildo strap-on bisa dipaksa masuk dari belakang, pinggang dijadikan pegangan saat penetrasi. Saat orgasme, otot perut mengencang keras, membuat crotch rope semakin menggali ke celah sensitif. Tubuh melengkung liar, tali menahan, jeritan bercampur tangis nikmat."
+        },
+        "selangkangan": {
+          "anchor_dan_pola_tali": "Crotch rope ditarik dari simpul pinggang, melewati celah pantat, menyayat di antara bibir vagina, lalu keluar ke depan dan kembali ke simpul. Variasi: tali ganda (double strand) atau tali dipelintir menjadi twisted crotch rope untuk gesekan ekstra.",
+          "fungsi_biomekanik_erotis": "Menekan klitoris dan bibir vagina setiap kali tubuh bergerak. Menjaga kaki tetap rapat → tidak bisa membuka paha. Bisa dijadikan 'alat kendali' → setiap tarikan dari belakang membuat crotch rope menggesek klitoris seperti digosok keras.",
+          "efek_sensorik": "Sensasi mengiris dan menggesek klitoris. Kelembapan vagina membuat tali makin licin dan menggali lebih dalam. Rasa tertekan berubah jadi stimulasi orgasme berulang.",
+          "stimulasi_bdsm_orgasme": "Vibrator peluru bisa diikatkan tepat pada klitoris di bawah crotch rope. Dildo panjang didorong masuk, crotch rope menekan pangkalnya → setiap dorongan terasa brutal. Elektro pad kecil ditempel di crotch rope → setiap sengatan listrik terasa menusuk ke dalam vagina. Orgasme berulang menyebabkan panggul menegang dan bergetar liar. Tali menahan keras, tubuh melengkung, cairan memancar, kejang memukul seluruh tubuh."
+        },
+        "vagina": {
+          "anchor_dan_pola_tali": "Tidak ada tali langsung di dalam, tapi crotch rope dan harness paha menciptakan framing. Bisa ditambahkan dildo ikat (dildo harness diikat permanen dengan tali) yang terkunci di dalam vagina.",
+          "fungsi_biomekanik_erotis": "Penetrasi dipaksa konstan → tidak bisa dilepas. Setiap gerakan hogtie memperdalam dorongan dildo. Vibrasi dari tali atau alat menyebar langsung ke dinding vagina.",
+          "efek_sensorik": "Rasa terisi penuh → vagina dijaga dalam kondisi terstimulasi terus-menerus. Dinding vagina bergesekan tanpa henti, menyalakan saraf erotis. Tubuh dipaksa menerima orgasme berulang, bahkan saat lelah.",
+          "stimulasi_bdsm_orgasme": "Dildo getar high-power dipasang → vagina berdenyut hebat. Dildo kembar (vaginal + anal) diikat, membuat penetrasi ganda permanen. Orgasme eksplosif: tubuh bergetar, cairan mengalir, ikatan menahan setiap hentakan liar, sampai tubuh kejang tanpa kontrol."
+        },
+        "anus": {
+          "anchor_dan_pola_tali": "Tali harness pinggang dan crotch rope membingkai anus. Bisa ditambahkan butt plug yang diikat dengan tali sehingga tidak bisa keluar.",
+          "fungsi_biomekanik_erotis": "Memaksa anus selalu terekspos → rentan penetrasi atau cambuk. Butt plug menjaga sensasi penuh di belakang. Saat tubuh melengkung hogtie, plug terdorong makin dalam.",
+          "efek_sensorik": "Sensasi peregangan anus → sakit sekaligus nikmat. Getaran plug atau tekanan tali di pangkal menambah intensitas. Kombinasi dengan penetrasi vagina → stimulasi ganda, memicu orgasme lebih cepat.",
+          "stimulasi_bdsm_orgasme": "Butt plug getar → anus berdenyut liar. Elektro stim → sengatan membuat tubuh tersentak kejut setiap kali. Double penetration (dildo vagina + butt plug besar) → tubuh meronta tapi terikat. Orgasme membuat anus berkontraksi keras, mencengkram plug, tubuh bergetar liar, teriakan bercampur tangis."
+        },
+        "paha": {
+          "anchor_dan_pola_tali": "Tali mengikat paha ke paha, atau paha ke betis. Bisa dengan pola spiral atau ikatan figure-eight.",
+          "fungsi_biomekanik_erotis": "Membatasi gerakan besar kaki. Memaksa paha rapat → selangkangan tertekan. Memberi frame untuk tali selangkangan.",
+          "efek_sensorik": "Tekanan tali pada paha membuat otot terasa berat. Sirkulasi terpat menimbulkan sensasi berdenyut erotis. Paha rapat memaksa vagina tergesek crotch rope lebih keras.",
+          "stimulasi_bdsm_orgasme": "Cambukan pada paha terbuka → sakit bercampur nikmat. Lilin panas diteteskan → kulit paha bergetar menerima panas. Orgasme memaksa paha gemetar keras, otot menegang, crotch rope makin meremas klitoris."
+        },
+        "lutut": {
+          "anchor_dan_pola_tali": "Kedua lutut diikat rapat atau disatukan ke betis. Variasi: figure-eight untuk stabilitas.",
+          "fungsi_biomekanik_erotis": "Membatasi fleksi kaki → posisi hogtie makin kaku. Menambah lengkungan punggung. Membuat selangkangan terbuka dan terekspos.",
+          "efek_sensorik": "Tekanan sendi → sedikit sakit tapi menambah helplessness. Getaran merambat ke seluruh tungkai.",
+          "stimulasi_bdsm_orgasme": "Pukulan cambuk di lipatan lutut → refleks kejut membuat tubuh meronta. Lutut bergetar saat orgasme, memperkuat sensasi di crotch rope."
+        },
+        "betis": {
+          "anchor_dan_pola_tali": "Betis diikat spiral atau paralel ke paha atau ankle.",
+          "fungsi_biomekanik_erotis": "Menjaga kaki tetap rapat. Menambah tekanan pada hogtie.",
+          "efek_sensorik": "Otot betis terjepit, sirkulasi menurun → sensasi kesemutan erotis. Betis jadi area empuk untuk cambukan.",
+          "stimulasi_bdsm_orgasme": "Cambukan di betis → tubuh tersentak. Getaran orgasme memicu kram ringan → menambah intensitas kejang."
+        },
+        "ankle": {
+          "anchor_dan_pola_tali": "Pergelangan kaki diikat rapat, biasanya jadi titik utama hogtie → ankle ditarik ke tangan belakang. Bisa digandakan dengan ikatan figure-eight.",
+          "fungsi_biomekanik_erotis": "Menarik kaki ke belakang → tubuh melengkung ekstrem. Membatasi semua gerakan kaki.",
+          "efek_sensorik": "Tekanan tali di pergelangan → rasa perih manis. Tarikan hogtie → membuat tubuh selalu menegang.",
+          "stimulasi_bdsm_orgasme": "Ankle jadi pegangan dominan saat menarik hogtie. Saat orgasme, kaki bergetar liar, tapi ikatan ankle menahan, menambah rasa helpless total."
+        },
+        "jari_kaki": {
+          "anchor_dan_pola_tali": "Bisa ditambahkan ikatan halus di jari kaki, ditarik ke belakang (toe tie).",
+          "fungsi_biomekanik_erotis": "Membuat kaki menekuk → menambah lengkungan hogtie. Menyiksa jari kaki dengan tarikan konstan.",
+          "efek_sensorik": "Sensasi getir, perih, sangat intens di jari kaki. Menambah helplessness → tidak ada bagian tubuh bebas.",
+          "stimulasi_bdsm_orgasme": "Lilin panas ditetes di jari kaki → tubuh tersentak keras. Jari kaki mengibas liar saat orgasme, tapi tetap tertahan tali. Kejang orgasme: jari kaki menekuk keras, tubuh kaku, lalu gemetar panjang."
+        },
+        "kondisi_tubuh_setelah_sesi_penuh": {
+          "deskripsi_lengkap": "Semua tali menekan tubuh dari pinggang ke kaki, crotch rope menggesek klitoris nonstop. Dildo vaginal dan butt plug anal terkunci, getarannya menghancurkan pertahanan mental. Saat stimulasi simultan (vibrator + elektro + cambuk), tubuh masuk fase orgasme beruntun. Otot paha, perut, dan pinggang menegang keras, tubuh melengkung ekstrem. Cairan orgasme membanjir, jeritan berubah jadi tangisan, kejang merambat ke seluruh tubuh. Setelah klimaks berkali-kali, tubuh kolaps, napas tersengal, masih terikat rapat, sisa getaran alat memaksa orgasme kecil berulang hingga tubuh benar-benar habis."
+        }
+      }
+    }
+  }
+]
