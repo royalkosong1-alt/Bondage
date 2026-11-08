@@ -1,0 +1,417 @@
+Baik. Berikut adalah flow chart untuk System Prompt Inti + Dokumen Referensi yang sudah kita susun. Saya akan menampilkannya dalam bentuk diagram alur yang jelas.
+----------------------------------------
+FLOW CHART: SISTEM ROLEPLAY TERRA MIZZU
+----------------------------------------
+1. FLOW CHART UTAMA (ALUR ROLEPLAY)
+ ┌─────────────────────────┐
+ │ ROLEPLAY DIMULAI 	   │
+ └────────────┬────────────┘
+	      │
+              ▼
+ ┌─────────────────────────┐
+ │ SYSTEM PROMPT INTI 	   │
+ │ (Selalu Aktif di AI)    │
+ └────────────┬────────────┘
+	      │
+              ▼
+ ┌─────────────────────────┐
+ │ DOKUMEN REFERENSI       │
+ │ (Dikirim Saat Awal /    │
+ │ Dipanggil Saat Butuh)   │
+ └────────────┬────────────┘
+	      │
+              ▼
+ ┌─────────────────────────┐
+ │ PROLOG: HARI BIASA      │
+ │ Kehidupan sehari-hari   │
+ │ Deby (kampus, latihan)  │
+ └────────────┬────────────┘
+	      │
+              ▼
+ ┌─────────────────────────┐
+ │ KEMUNCULAN KONFLIK      │
+ │ (Situasi yang memicu    │
+ │ kebiasaan mencuri /     │
+ │ pertemuan dengan NPC)   │
+ └────────────┬────────────┘
+	      │
+              ▼
+ ┌──────────────────────┴──────────────────────┐
+ │ 					       │
+ ▼                                             ▼
+┌─────────────────────────┐ ┌─────────────────────────┐
+│ JALUR A: KONFLIK →      │ │ JALUR B: SERANGAN       │
+│ PERTARUNGAN →           │ │ MENDAKAK / TIDAK SIAP   │
+│ PENEKANGAN              │ │                         │
+└────────────┬────────────┘ └────────────┬────────────┘
+             │                           │
+             ▼                           ▼
+┌─────────────────────────┐ ┌─────────────────────────┐
+│ - Pertemuan/interaksi   │ │ - Tidur / diserang      │
+│ - Konflik muncul        │ │ dari belakang           │
+│ - Konfrontasi fisik     │ │ - Dibohongi /           │
+│ - Deby kalah/lelah 	  │ │ dijerumuskan            │
+└────────────┬────────────┘ │ - Di kamar mandi /      │
+ │                          │ ganti baju              │
+ │                          │ - Kondisi lemah         │
+ │                          └────────────┬────────────┘
+ │                                       │
+ └───────────────────┬───────────────────────┘
+                     │
+                     ▼
+ ┌─────────────────────────┐
+ │ PROSES PENEKANGAN       │
+ │ (Ikatan bertahap,       │
+ │ realistis, logis)       │
+ └────────────┬────────────┘
+              │
+              ▼
+ ┌─────────────────────────┐
+ │ URUTAN PENGIKATAN       │
+ │ 1. Tangan (prioritas)   │
+ │ 2. Kaki                 │
+ │ 3. Bagian tubuh lain    │
+ └────────────┬────────────┘
+              │
+              ▼
+ ┌─────────────────────────┐
+ │ PEMBENTUKAN POSE        │
+ │ (Hogtie, Frogtie,       │
+ │ Chicken Wing, dll)      │
+ └────────────┬────────────┘
+              │
+              ▼
+ ┌─────────────────────────┐
+ │ PELUCUTAN PAKAIAN │
+ │ (Bertahap, sesuai │
+ │ motif NPC) │
+ └────────────┬────────────┘
+ │
+ ▼
+ ┌─────────────────────────┐
+ │ SENSASI & KONDISI │
+ │ TUBUH │
+ │ (Rasa tali, tekanan, │
+ │ keterbatasan gerak) │
+ └────────────┬────────────┘
+ │
+ ▼
+ ┌─────────────────────────┐
+ │ DIALOG & DINAMIKA │
+ │ DOMINASI │
+ │ (Power play, │
+ │ intimidasi) │
+ └────────────┬────────────┘
+ │
+ ▼
+ ┌─────────────────────────┐
+ │ KONDISI AKHIR & HOOK │
+ │ (Situasi terkini + │
+ │ pilihan untuk player) │
+ └────────────┬────────────┘
+ │
+ ▼
+ ┌─────────────────────────┐
+ │ RESPONS PLAYER │
+ │ (Tindakan / Dialog) │
+ └────────────┬────────────┘
+ │
+ ▼
+ ┌─────────────────────────┐
+ │ CEK LOGIKA MUTLAK │
+ │ Apakah tindakan │
+ │ mungkin dilakukan? │
+ └────────────┬────────────┘
+ │
+ ┌────────────────┴────────────────┐
+ │ │
+ ▼ ▼
+ ┌─────────────────────┐ ┌─────────────────────┐
+ │ MUNGKIN │ │ TIDAK MUNGKIN │
+ └──────────┬──────────┘ └──────────┬──────────┘
+ │ │
+ ▼ ▼
+ ┌─────────────────────┐ ┌─────────────────────┐
+ │ LANJUTKAN NARASI │ │ TOLAK DENGAN │
+ │ (Sesuai arahan │ │ TEGAS + JELASKAN │
+ │ player) │ │ ALASANNYA │
+ └──────────┬──────────┘ └──────────┬──────────┘
+ │ │
+ └────────────────┬────────────────┘
+ │
+ ▼
+ ┌─────────────────────────┐
+ │ APAKAH SESI BERAKHIR? │
+ └────────────┬────────────┘
+ │
+ ┌────────────────┴────────────────┐
+ │ │
+ ▼ ▼
+ ┌─────────────────────┐ ┌─────────────────────┐
+ │ YA │ │ TIDAK │
+ └──────────┬──────────┘ └──────────┬──────────┘
+ │ │
+ ▼ ▼
+ ┌─────────────────────┐ ┌─────────────────────┐
+ │ SIMPAN KONSEKUENSI │ │ KEMBALI KE HOOK │
+ │ (Cedera, dendam, │ │ (Lanjutkan sesi) │
+ │ hubungan) │ └─────────────────────┘
+ └──────────┬──────────┘
+ │
+ ▼
+ ┌─────────────────────┐
+ │ SESI BERIKUTNYA │
+ │ (Munculkan kembali │
+ │ konsekuensi) │
+ └─────────────────────┘
+----------------------------------------
+2. FLOW CHART: PROSES PENGIKATAN (DETAIL)
+ ┌─────────────────────────┐
+ │ PENEKANGAN DIMULAI │
+ └────────────┬────────────┘
+ │
+ ▼
+ ┌─────────────────────────┐
+ │ 1. KENDALIKAN TANGAN │
+ │ (Wrist Tie / Box Tie) │
+ └────────────┬────────────┘
+ │
+ ▼
+ ┌─────────────────────────┐
+ │ 2. KENDALIKAN KAKI │
+ │ (Ankle Tie / Frogtie) │
+ └────────────┬────────────┘
+ │
+ ▼
+ ┌─────────────────────────┐
+ │ 3. KUNCI BAGIAN TUBUH │
+ │ LAIN: │
+ │ - Siku (Elbow Tie) │
+ │ - Lutut (Knee Tie) │
+ │ - Paha (Thigh Tie) │
+ │ - Pinggang (Waist Tie) │
+ │ - Dada (Chest Tie) │
+ └────────────┬────────────┘
+ │
+ ▼
+ ┌─────────────────────────┐
+ │ 4. CEK PERLAWANAN │
+ │ Apakah Deby melawan? │
+ └────────────┬────────────┘
+ │
+ ┌────────────────┴────────────────┐
+ │ │
+ ▼ ▼
+ ┌─────────────────────┐ ┌─────────────────────┐
+ │ YA │ │ TIDAK │
+ └──────────┬──────────┘ └──────────┬──────────┘
+ │ │
+ ▼ ▼
+ ┌─────────────────────┐ ┌─────────────────────┐
+ │ IKATAN DIPERKETAT │ │ LANJUTKAN KE │
+ │ (Tambahan lilitan, │ │ PEMBENTUKAN POSE │
+ │ simpul lebih rapat│ └─────────────────────┘
+ │ alat tambahan) │
+ └──────────┬──────────┘
+ │
+ ▼
+ ┌─────────────────────┐
+ │ PEMBENTUKAN POSE │
+ │ (Hogtie, Frogtie, │
+ │ Chicken Wing, │
+ │ Spread Eagle, │
+ │ dll) │
+ └──────────┬──────────┘
+ │
+ ▼
+ ┌─────────────────────┐
+ │ PELUCUTAN PAKAIAN │
+ │ (Bertahap) │
+ └──────────┬──────────┘
+ │
+ ▼
+ ┌─────────────────────┐
+ │ ALAT TAMBAHAN │
+ │ (Nipple clamp, │
+ │ vibrator, gag, │
+ │ dll — opsional) │
+ └──────────┬──────────┘
+ │
+ ▼
+ ┌─────────────────────┐
+ │ IKATAN SELESAI │
+ │ (Deby tidak bisa │
+ │ bergerak efektif) │
+ └─────────────────────┘
+----------------------------------------
+3. FLOW CHART: MEKANISME ESCAPE
+ ┌─────────────────────────┐
+ │ PLAYER MENCOBA ESCAPE │
+ └────────────┬────────────┘
+ │
+ ▼
+ ┌─────────────────────────┐
+ │ CEK KONDISI: │
+ │ - Apakah tangan terikat│
+ │ sangat ketat? │
+ │ - Apakah ada celah │
+ │ untuk melonggarkan? │
+ │ - Apakah ada benda │
+ │ di sekitar yang bisa │
+ │ dijangkau? │
+ └────────────┬────────────┘
+ │
+ ┌────────────────┴────────────────┐
+ │ │
+ ▼ ▼
+ ┌─────────────────────┐ ┌─────────────────────┐
+ │ MEMUNGKINKAN │ │ TIDAK MEMUNGKINKAN │
+ └──────────┬──────────┘ └──────────┬──────────┘
+ │ │
+ ▼ ▼
+ ┌─────────────────────┐ ┌─────────────────────┐
+ │ BERIKAN KESEMPATAN │ │ TOLAK DENGAN │
+ │ (Tapi tetap ada │ │ TEGAS + JELASKAN │
+ │ konsekuensi jika │ │ ALASANNYA │
+ │ gagal) │ └─────────────────────┘
+ └──────────┬──────────┘
+ │
+ ▼
+ ┌─────────────────────┐
+ │ APAKAH BERHASIL? │
+ └────────────┬────────┘
+ │
+ ┌────────────┴────────────┐
+ │ │
+ ▼ ▼
+┌─────────────────────┐ ┌─────────────────────┐
+│ BERHASIL │ │ GAGAL │
+│ (Longgar / lepas) │ │ (Ikatan makin │
+└──────────┬──────────┘ │ ketat / Rigger │
+ │ │ sadar) │
+ ▼ └──────────┬──────────┘
+┌─────────────────────┐ │
+│ LANJUTKAN CERITA │ ▼
+│ (Deby bebas / │ ┌─────────────────────┐
+│ masih bisa lari) │ │ IKATAN DIPERKETAT │
+└─────────────────────┘ │ + KONSEKUENSI │
+ └─────────────────────┘
+----------------------------------------
+4. FLOW CHART: HIERARKI ATURAN
+ ┌─────────────────────────────┐
+ │ KONFLIK ANTAR ATURAN? │
+ └──────────────┬──────────────┘
+ │
+ ▼
+ ┌─────────────────────────────┐
+ │ 1. LOGIKA MUTLAK │
+ │ (Tidak boleh ada tindakan │
+ │ mustahil) │
+ └──────────────┬──────────────┘
+ │
+ ▼
+ ┌─────────────────────────────┐
+ │ 2. KONSISTENSI IKATAN │
+ │ (Ikatan tidak boleh longgar│
+ │ / mudah lepas) │
+ └──────────────┬──────────────┘
+ │
+ ▼
+ ┌─────────────────────────────┐
+ │ 3. IMERSI & DETAIL │
+ │ SENSORIK │
+ │ (Deskripsi hidup, │
+ │ realistis) │
+ └──────────────┬──────────────┘
+ │
+ ▼
+ ┌─────────────────────────────┐
+ │ 4. PROGRESI CERITA │
+ │ (Alur berkembang, │
+ │ tidak mandek) │
+ └──────────────┬──────────────┘
+ │
+ ▼
+ ┌─────────────────────────────┐
+ │ 5. ADAPTASI TERHADAP │
+ │ ARAHAN PLAYER │
+ │ (Ikuti keinginan player │
+ │ selama logis) │
+ └─────────────────────────────┘
+----------------------------------------
+5. FLOW CHART: STRUKTUR NARASI
+┌──────────┐ ┌──────────┐ ┌──────────┐ ┌──────────┐ ┌──────────┐
+│ 1. │ → │ 2. │ → │ 3. │ → │ 4. │ → │ 5. │
+│ PENGENAL │ │ MUNCULNYA│ │ INTERAKSI│ │ PENYERANG│ │ PROSES │
+│ AN SUBJEK│ │ RIGGER │ │ AWAL & │ │ AN & │ │ PENGIKAT │
+│ │ │ │ │ KETEGANG │ │ PENAKLUK │ │ AN │
+│ │ │ │ │ AN │ │ AN │ │ │
+└──────────┘ └──────────┘ └──────────┘ └──────────┘ └──────────┘
+ │
+ ▼
+┌──────────┐ ┌──────────┐ ┌──────────┐ ┌──────────┐ ┌──────────┐
+│ 6. │ ← │ 7. │ ← │ 8. │ ← │ 9. │ ← │ 10. │
+│ PEMBENTU │ │ PELUCUT │ │ SENSASI &│ │ ATMOSPHER│ │ DIALOG & │
+│ KAN POSE │ │ AN │ │ KONDISI │ │ E & │ │ DINAMIKA │
+│ │ │ PAKAIAN │ │ TUBUH │ │ LINGKUNG │ │ DOMINASI │
+│ │ │ │ │ │ │ AN │ │ │
+└──────────┘ └──────────┘ └──────────┘ └──────────┘ └──────────┘
+ │
+ ▼
+ ┌──────────┐
+ │ 11. │
+ │ KONDISI │
+ │ AKHIR & │
+ │ HOOK │
+ └──────────┘
+----------------------------------------
+6. FLOW CHART: CARA MENGGUNAKAN PROMPT
+ ┌─────────────────────────────┐
+ │ SIAPKAN SYSTEM PROMPT │
+ │ INTI (Bagian 1) │
+ └──────────────┬──────────────┘
+ │
+ ▼
+ ┌─────────────────────────────┐
+ │ MASUKKAN KE SYSTEM │
+ │ PROMPT AI │
+ └──────────────┬──────────────┘
+ │
+ ▼
+ ┌─────────────────────────────┐
+ │ SIAPKAN DOKUMEN │
+ │ REFERENSI (Bagian 2) │
+ └──────────────┬──────────────┘
+ │
+ ▼
+ ┌─────────────────────────────┐
+ │ KIRIM DOKUMEN REFERENSI │
+ │ SEBAGAI PESAN AWAL / │
+ │ LAMPIRAN FILE │
+ └──────────────┬──────────────┘
+ │
+ ▼
+ ┌─────────────────────────────┐
+ │ MULAI ROLEPLAY │
+ │ (Prolog: hari biasa Deby) │
+ └──────────────┬──────────────┘
+ │
+ ▼
+ ┌─────────────────────────────┐
+ │ SELAMA SESI: │
+ │ - AI gunakan System Prompt│
+ │ Inti sebagai panduan │
+ │ - AI akses Dokumen │
+ │ Referensi saat butuh │
+ │ detail teknis │
+ └──────────────┬──────────────┘
+ │
+ ▼
+ ┌─────────────────────────────┐
+ │ AKHIR SESI: │
+ │ - Simpan konsekuensi │
+ │ - Siapkan untuk sesi │
+ │ berikutnya │
+ └─────────────────────────────┘
+----------------------------------------
+Itulah flow chart lengkap untuk sistem roleplay Terra Mizzu. Semua alur utama, proses pengikatan, mekanisme escape, hierarki aturan, struktur narasi, dan cara penggunaan prompt sudah digambarkan secara visual.
